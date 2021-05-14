@@ -110,13 +110,101 @@ title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
 
+################################### Japanese language #####################################
+[Languages.ja]
+languageName = "Ja"
+languageCode = "ja"
+contentDir = "content/japanese"
+weight = 1
+home = "home"
+# copyright
+copyright = "Copyright &copy; okinawarkationweek2021"
+
+
+
+################### French navigation ####################
+
+# main menu
+[[Languages.ja.menu.main]]
+name = "About"
+url = "about"
+weight = 1
+
+[[Languages.ja.menu.main]]
+name = "イベント一覧"
+url = "course"
+weight = 2
+
+# [[Languages.ja.menu.main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
+
+#   [[Languages.ja.menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   url = "teacher"
+
+#   [[Languages.ja.menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   url = "notice"
+
+#   [[Languages.ja.menu.main]]
+#   parent = "Pages"
+#   name = "ページ"
+#   url = "event"
+
+#   [[Languages.ja.menu.main]]
+#   parent = "Pages"
+#   name = "Cursus"
+#   url = "scholarship"
+
+#   [[Languages.ja.menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   url = "research"
+  
+[[Languages.ja.menu.main]]
+name = "新着情報"
+url = "blog"
+weight = 4
+  
+[[Languages.ja.menu.main]]
+name = "問合せ"
+url = "contact"
+weight = 5
+
+
+# footer menu
+
+[[Languages.ja.menu.footer]]
+name = "teacher"
+url = "teacher"
+
+[[Languages.ja.menu.footer]]
+name = "notice"
+url = "notice"
+
+[[Languages.ja.menu.footer]]
+name = "event"
+url = "event"
+
+[[Languages.ja.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+
+[[Languages.ja.menu.footer]]
+name = "research"
+url = "research"
+
 
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -201,90 +289,90 @@ url = "research"
 
 
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+# ################################### French language #####################################
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 3
+# home = "Accueil"
+# # copyright
+# copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
 
 
-################### French navigation ####################
+# ################### French navigation ####################
 
-# main menu
-[[Languages.fr.menu.main]]
-name = "À propos"
-url = "about"
-weight = 1
+# # main menu
+# [[Languages.fr.menu.main]]
+# name = "À propos"
+# url = "about"
+# weight = 1
 
-[[Languages.fr.menu.main]]
-name = "Cours"
-url = "course"
-weight = 2
+# [[Languages.fr.menu.main]]
+# name = "Cours"
+# url = "course"
+# weight = 2
 
-[[Languages.fr.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
+# [[Languages.fr.menu.main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
+#   [[Languages.fr.menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   url = "teacher"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
+#   [[Languages.fr.menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   url = "notice"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Évènement"
-  url = "event"
+#   [[Languages.fr.menu.main]]
+#   parent = "Pages"
+#   name = "Évènement"
+#   url = "event"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "Cursus"
-  url = "scholarship"
+#   [[Languages.fr.menu.main]]
+#   parent = "Pages"
+#   name = "Cursus"
+#   url = "scholarship"
 
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
+#   [[Languages.fr.menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   url = "research"
   
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
+# [[Languages.fr.menu.main]]
+# name = "blog"
+# url = "blog"
+# weight = 4
   
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
+# [[Languages.fr.menu.main]]
+# name = "Contact"
+# url = "contact"
+# weight = 5
 
 
-# footer menu
+# # footer menu
 
-[[Languages.fr.menu.footer]]
-name = "teacher"
-url = "teacher"
+# [[Languages.fr.menu.footer]]
+# name = "teacher"
+# url = "teacher"
 
-[[Languages.fr.menu.footer]]
-name = "notice"
-url = "notice"
+# [[Languages.fr.menu.footer]]
+# name = "notice"
+# url = "notice"
 
-[[Languages.fr.menu.footer]]
-name = "event"
-url = "event"
+# [[Languages.fr.menu.footer]]
+# name = "event"
+# url = "event"
 
-[[Languages.fr.menu.footer]]
-name = "scholarship"
-url = "scholarship"
+# [[Languages.fr.menu.footer]]
+# name = "scholarship"
+# url = "scholarship"
 
-[[Languages.fr.menu.footer]]
-name = "research"
-url = "research"
+# [[Languages.fr.menu.footer]]
+# name = "research"
+# url = "research"
