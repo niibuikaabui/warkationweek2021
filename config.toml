@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+title = "オキナワーケーションウィーク2021"
 theme = "educenter-hugo"
 themesDir = "themes"
 # post pagination
@@ -207,85 +207,85 @@ contentDir = "content/english"
 weight = 2
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; okinawarkationweek2021"
 
 
 
-################### English navigation ####################
+# ################### English navigation ####################
 
-# main menu
-[[Languages.en.menu.main]]
-name = "About"
-url = "about"
-weight = 1
+# # main menu
+# [[Languages.en.menu.main]]
+# name = "About"
+# url = "about"
+# weight = 1
 
-[[Languages.en.menu.main]]
-name = "course"
-url = "course"
-weight = 2
+# [[Languages.en.menu.main]]
+# name = "course"
+# url = "course"
+# weight = 2
 
-[[Languages.en.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
+# [[Languages.en.menu.main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   url = "teacher"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   url = "notice"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "event"
+#   url = "event"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "scholarship"
+#   url = "scholarship"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   url = "research"
   
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "blog"
+# url = "blog"
+# weight = 4
   
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Contact"
+# url = "contact"
+# weight = 5
 
 
-# footer menu
+# # footer menu
 
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
+# [[Languages.en.menu.footer]]
+# name = "teacher"
+# url = "teacher"
 
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice"
+# [[Languages.en.menu.footer]]
+# name = "notice"
+# url = "notice"
 
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event"
+# [[Languages.en.menu.footer]]
+# name = "event"
+# url = "event"
 
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
+# [[Languages.en.menu.footer]]
+# name = "scholarship"
+# url = "scholarship"
 
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research"
+# [[Languages.en.menu.footer]]
+# name = "research"
+# url = "research"
 
 
 
