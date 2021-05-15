@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "https://isc-okinawa.org/tele-oki/okinawarkationweek2021/"
 title = "オキナワーケーションウィーク2021"
 theme = "educenter-hugo"
 themesDir = "themes"
@@ -50,14 +50,14 @@ description = "This is meta description"
 author = "Themefisher"
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
+# mobile = "+211234565523"
 email = "info@educenter.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
-top_header = true
+top_header = false
 
 # Preloader
 [params.preloader]
@@ -88,27 +88,27 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/teleokinawa/"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "twitter"
+# icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/tele_okinawa/"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "github"
+# icon = "ti-github" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "linkedin"
+# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 ################################### Japanese language #####################################
 [Languages.ja]
