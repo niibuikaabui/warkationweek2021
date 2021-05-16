@@ -1,5 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://isc-okinawa.org/tele-oki/okinawarkationweek2021/"
+# baseURL = "file:///C:/Hugo/warkationweek2021/public/"
 title = "オキナワーケーションウィーク2021"
 theme = "educenter-hugo"
 themesDir = "themes"
@@ -135,7 +136,7 @@ weight = 1
 
 [[Languages.ja.menu.main]]
 name = "イベント一覧"
-url = "course"
+url = "event"
 weight = 2
 
 # [[Languages.ja.menu.main]]
