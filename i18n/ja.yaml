@@ -32,16 +32,16 @@
   translation: もっと見る
 
 - id: apply_now
-  translation: Apply now
+  translation: 参加
 
 - id: posted_by
   translation: Posted by
 
 - id: date
-  translation: Date
+  translation: 日付
 
 - id: time
-  translation: time
+  translation: 時間
 
 - id: category
   translation: Category
@@ -62,16 +62,19 @@
   translation: teacher
 
 - id: location
-  translation: location
+  translation: 場所
 
 - id: entry_fee
-  translation: entry fee
+  translation: 参加費
+
+- id: about_event
+  translation: イベントについて
 
 - id: event_speaker
-  translation: Event Speakers
+  translation: 主催者・登壇者
 
 - id: more_event
-  translation: More Events
+  translation: 全てのイベント
 
 - id: join
   translation: Join

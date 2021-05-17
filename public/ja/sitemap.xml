@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/"
-                />
-  </url><url>
     <loc>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-4/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -56,6 +43,19 @@
   </url><url>
     <loc>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-7/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url><url>
+    <loc>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/"
+                />
   </url><url>
     <loc>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>

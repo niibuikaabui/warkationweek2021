@@ -10,20 +10,11 @@
     <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
       <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-4/</link>
       <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-4/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -32,7 +23,7 @@
       <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-5/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -41,7 +32,7 @@
       <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-6/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -50,7 +41,16 @@
       <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-7/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>STEM教育体験</title>
+      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</link>
+      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      
+      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</guid>
+      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
     </item>
     
     <item>
@@ -59,16 +59,16 @@
       <pubDate>Sat, 20 Nov 2021 15:27:17 +0600</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-1/</guid>
-      <description>About Event 沖縄県内のインキュベート施設やワークスペースを巡るツアーです。</description>
+      <description>沖縄県内のインキュベート施設やワークスペースを巡るツアーです。</description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
+      <title>子供の貧困解決フューチャーセッション</title>
       <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-2/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-2/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>沖縄における子供の貧困について、多角的に議論する場です。</description>
     </item>
     
   </channel>

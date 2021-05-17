@@ -21,19 +21,17 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  - name : "Jack Mastio"
-    image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
+  - name : "リゾテックEXPO実行委員会"
+    image : "images/event-speakers/ResorTechOkinawa.png"
+    designation : "主催者"
 
-  # speaker loop
-  - name : "John Doe"
-    image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
+  # # speaker loop
+  # - name : "John Doe"
+  #   image : "images/event-speakers/speaker-2.jpg"
+  #   designation : "Teacher"
 
 # type
 type: "event"
 ---
-
-### About Event
 
 沖縄県内のインキュベート施設やワークスペースを巡るツアーです。
