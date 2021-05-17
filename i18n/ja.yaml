@@ -20,13 +20,13 @@
   translation: お問合せ
 
 - id: latest_article
-  translation: Latest Article
+  translation: 最近の投稿
 
 - id: categories
-  translation: Categories
+  translation: カテゴリー
 
 - id: tags
-  translation: Tags
+  translation: タグ
 
 - id: see_all
   translation: もっと見る
@@ -35,7 +35,7 @@
   translation: 参加
 
 - id: posted_by
-  translation: Posted by
+  translation: 投稿者
 
 - id: date
   translation: 日付
@@ -44,7 +44,7 @@
   translation: 時間
 
 - id: category
-  translation: Category
+  translation: カテゴリー
 
 - id: related_course
   translation: Related Course

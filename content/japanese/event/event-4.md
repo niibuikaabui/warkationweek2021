@@ -1,17 +1,17 @@
 ---
-title: "Social media and behavior economics conference"
+title: "アガイティーダ体験キャンペーン"
 # Schedule page publish date
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 # event date
-date: "2030-03-09T15:27:17+06:00"
+date: "2021-11-12T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "オーシャンビューのワークスペース、アガイティーダの体験キャンペーン"
 # Event image
-image: "images/events/event-3.jpg"
+image: "images/events/agaiti-da.png"
 # location
 location: "Dhanmondi, Dhaka"
 # entry fee

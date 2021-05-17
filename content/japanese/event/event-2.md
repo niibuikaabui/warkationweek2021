@@ -21,24 +21,24 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  - name : "Jack Mastio"
-    image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
+  - name : "一般社団法人沖縄ＩＴイノベーション戦略センター"
+    image : "images/event-speakers/isco-logo.png"
+    designation : "主催者"
 
-  # speaker loop
-  - name : "John Doe"
-    image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
+  # # speaker loop
+  # - name : "John Doe"
+  #   image : "images/event-speakers/speaker-2.jpg"
+  #   designation : "Teacher"
 
-  # speaker loop
-  - name : "Randy Luis"
-    image : "images/event-speakers/speaker-3.jpg"
-    designation : "Teacher"
+  # # speaker loop
+  # - name : "Randy Luis"
+  #   image : "images/event-speakers/speaker-3.jpg"
+  #   designation : "Teacher"
 
-  # speaker loop
-  - name : "Alfred Jin"
-    image : "images/event-speakers/speaker-4.jpg"
-    designation : "Teacher"
+  # # speaker loop
+  # - name : "Alfred Jin"
+  #   image : "images/event-speakers/speaker-4.jpg"
+  #   designation : "Teacher"
 
 # type
 type: "event"
