@@ -83,7 +83,7 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: ウィーク情報
 
 - id: links
   translation: links
@@ -92,7 +92,7 @@
   translation: Courses
 
 - id: new_notice
-  translation: new notice
+  translation: 新着情報
 
 - id: call
   translation: call

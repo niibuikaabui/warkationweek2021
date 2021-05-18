@@ -9,7 +9,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -130,7 +130,7 @@ copyright = "Copyright &copy; okinawarkationweek2021"
 
 # main menu
 [[Languages.ja.menu.main]]
-name = "About"
+name = "ウィークについて"
 url = "about"
 weight = 1
 

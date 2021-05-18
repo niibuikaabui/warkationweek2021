@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Copyright &amp;copy; okinawarkationweek2021</copyright>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>STEM教育体験</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</guid>
-      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
-    </item>
-    
+    <lastBuildDate>Sat, 20 Nov 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>リゾテックワーケーションツアー</title>
       <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-1/</link>
@@ -33,6 +24,15 @@
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>STEM教育体験</title>
+      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</link>
+      <pubDate>Tue, 09 Nov 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</guid>
+      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
     </item>
     
     <item>

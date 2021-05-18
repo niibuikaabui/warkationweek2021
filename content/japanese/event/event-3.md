@@ -3,7 +3,7 @@ title: "STEM教育体験"
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
-date: "2030-03-09T15:27:17+06:00"
+date: "2021-11-09T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image

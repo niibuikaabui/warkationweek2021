@@ -1,23 +1,26 @@
 ---
-title: "About Us"
+title: "オキナワーケーションウィークについて"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "ワーケーションって本当にできるの？沖縄って観光だけでしょ？と思っている方、一度は沖縄で仕事をしてみてください。"
 ---
 
-## ABOUT OUR JOURNY
+## 沖縄でワーケーションをしましょう！
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+観点を変えると見える景色があります。
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+光と影が表裏一体のように。
+
+だから是非沖縄でそれを体感してください。
+
+けっして後悔はさせません。
+
+ジャンボジェットでひとっ飛び。
+
+なやみも一緒に吹っ飛ぶはず。
+
+いまこそ、みなさん沖縄へ。

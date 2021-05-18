@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Copyright &amp;copy; okinawarkationweek2021</copyright>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>STEM教育体験</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</guid>
-      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
-    </item>
-    
+    <lastBuildDate>Sat, 20 Nov 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>リゾテックワーケーションツアー</title>
       <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-1/</link>
@@ -36,30 +27,31 @@
     </item>
     
     <item>
+      <title>STEM教育体験</title>
+      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</link>
+      <pubDate>Tue, 09 Nov 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/event/event-3/</guid>
+      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
+    </item>
+    
+    <item>
+      <title>認定アンバサダーの募集</title>
+      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/blog/blog-post-3/</link>
+      <pubDate>Sat, 15 May 2021 15:27:17 +0600</pubDate>
+      
+      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/blog/blog-post-3/</guid>
+      <description>オキナワーケーションウィークの認定アンバサダーを募集します。 オキナワーケーションウィークを一緒に盛り上げてくれるアンバサダーを募集します。
+認定証の授与 条件 </description>
+    </item>
+    
+    <item>
       <title>特設サイトをオープンしました</title>
       <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/blog/blog-post-1/</link>
       <pubDate>Thu, 06 May 2021 15:27:17 +0600</pubDate>
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/blog/blog-post-1/</guid>
       <description>ワーケーションウィーク２０２１特設ページを開設 当サイトでは、ウィーク中に県内で開催される様々なイベントや、お得なキャンペーン情報などをお知らせします。</description>
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-5/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-3/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
@@ -117,33 +109,6 @@
     </item>
     
     <item>
-      <title>JavaScript</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-4/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Mathematics</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-2/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-1/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
       <title>Teaching Materials and Testing Methods</title>
       <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/notice/notice-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -195,15 +160,6 @@
       
       <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/notice/notice-6/</guid>
       <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Vlogging</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/ja/course/course-6/</guid>
-      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
