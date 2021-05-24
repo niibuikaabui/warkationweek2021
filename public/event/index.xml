@@ -1,65 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Courses on オキナワーケーションウィーク2021</title>
-    <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/</link>
-    <description>Recent content in Our Courses on オキナワーケーションウィーク2021</description>
+    <title>イベント一覧 on オキナワーケーションウィーク2021</title>
+    <link>https://tele-okinawa.go.jp/okinawarkationweek2021/event/</link>
+    <description>Recent content in イベント一覧 on オキナワーケーションウィーク2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja</language>
     <copyright>Copyright &amp;copy; okinawarkationweek2021</copyright>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://tele-okinawa.go.jp/okinawarkationweek2021/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-1/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>リゾテックワーケーションツアー</title>
+      <link>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-1/</link>
+      <pubDate>Sat, 20 Nov 2021 15:27:17 +0600</pubDate>
       
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-1/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-1/</guid>
+      <description>沖縄県内のインキュベート施設やワークスペースを巡るツアーです。</description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-2/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>アガイティーダ体験キャンペーン</title>
+      <link>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-4/</link>
+      <pubDate>Fri, 12 Nov 2021 15:27:17 +0600</pubDate>
       
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-2/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-3/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>STEM教育体験</title>
+      <link>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-3/</link>
+      <pubDate>Tue, 09 Nov 2021 15:27:17 +0600</pubDate>
       
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-3/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-3/</guid>
+      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
     </item>
     
     <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-4/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>子供の貧困解決フューチャーセッション</title>
+      <link>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-4/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-5/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-5/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-6/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://isc-okinawa.org/tele-oki/okinawarkationweek2021/event/event-6/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://tele-okinawa.go.jp/okinawarkationweek2021/event/event-2/</guid>
+      <description>沖縄における子供の貧困について、多角的に議論する場です。</description>
     </item>
     
   </channel>

@@ -1,10 +1,19 @@
 ---
-title: "About Us"
+title: "お問合せ"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "「OKINAWA Warkation week」について、わからないことがあれば、お気軽にご相談ください。"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt. Dolore, labore. Accusamus nulla sed cum aliquid exercitationem debitis error harum porro maxime quo iusto aliquam dicta modi earum fugiat, vel possimus commodi, deleniti et veniam, fuga ipsum praesentium. Odit unde optio nulla ipsum quae obcaecati! Quod esse natus quibusdam asperiores quam vel, tempore itaque architecto ducimus expedita
+## 例）
+- ウィーク中に開催する県内イベントを告知したい。
+- 法人で参加したいが、どのイベントに参加すれば良いかわからない。
+- 地域課題に取り組む人を紹介してほしい。
+- アンバサダーの詳細を確認したい。
+
+## ご相談にのれないこと
+- 販売代理店を紹介してほしい。
+- ソリューションの営業先を紹介してほしい。（地域課題解決に繋がる場合を除く）
+- 宿泊先を教えて欲しい。（公式ツアーのご紹介のみ可能）
