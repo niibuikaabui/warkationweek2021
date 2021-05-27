@@ -7,7 +7,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "特設サイトをオープン"
 # post thumbnail
-image: "images/blog/newsite.png"
+# image: "newsite.png"
+image: "blog/blog-post-1/newsite.png"
 # post author
 author: "John Doe"
 # taxonomy

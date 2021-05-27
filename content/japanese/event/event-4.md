@@ -11,34 +11,24 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "オーシャンビューのワークスペース、アガイティーダの体験キャンペーン"
 # Event image
-image: "images/events/agaiti-da.png"
+image: "images/events/agaiti-da.jpg"
 # location
-location: "Dhanmondi, Dhaka"
+location: "南城市"
 # entry fee
-fee: "From: $699"
+fee: "300円/時"
 # apply url
 apply_url : "#"
 # event speaker
-speaker:
-  # speaker loop
-  - name : "Jack Mastio"
-    image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
+# speaker:
+#   # speaker loop
+#   - name : "Jack Mastio"
+#     image : "images/event-speakers/speaker-1.jpg"
+#     designation : "Teacher"
 
-  # speaker loop
-  - name : "John Doe"
-    image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "Randy Luis"
-    image : "images/event-speakers/speaker-3.jpg"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "Alfred Jin"
-    image : "images/event-speakers/speaker-4.jpg"
-    designation : "Teacher"
+#   # speaker loop
+#   - name : "John Doe"
+#     image : "images/event-speakers/speaker-2.jpg"
+#     designation : "Teacher"
 
 # type
 type: "event"

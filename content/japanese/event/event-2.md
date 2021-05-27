@@ -13,7 +13,7 @@ description : "子供の貧困解決策を探るフューチャーセッショ�
 # Event image
 image: "images/events/futuresession.jpg"
 # location
-location: "Dhanmondi, Dhaka"
+location: "オンライン"
 # entry fee
 fee: "From: $699"
 # apply url
