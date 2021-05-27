@@ -110,4 +110,7 @@
   translation: Our Teachers
 
 - id: download
-  translation: Download
+  translation: ダウンロード
+
+- id: cookie_consent
+  translation: 当サイトは、お客様のウェブ体験を向上させるため、cookieを使用します。

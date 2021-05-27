@@ -108,3 +108,6 @@
 
 - id: download
   translation: Download
+
+- id: cookie_consent
+  translation: This site uses cookies. By continuing to use this website, you agree to their use.

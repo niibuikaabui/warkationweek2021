@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Courses on オキナワーケーションウィーク2021</title>
-    <link>https://tele-okinawa.go.jp/okinawarkationweek2021/en/event/</link>
+    <link>https://tele-okinawa.go.jp/wwo2021/en/event/</link>
     <description>Recent content in Our Courses on オキナワーケーションウィーク2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; okinawarkationweek2021</copyright>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="https://tele-okinawa.go.jp/okinawarkationweek2021/en/event/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate><atom:link href="https://tele-okinawa.go.jp/wwo2021/en/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social media and behavior economics conference</title>
-      <link>https://tele-okinawa.go.jp/okinawarkationweek2021/en/event/event-1/</link>
+      <link>https://tele-okinawa.go.jp/wwo2021/en/event/event-1/</link>
       <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
       
-      <guid>https://tele-okinawa.go.jp/okinawarkationweek2021/en/event/event-1/</guid>
+      <guid>https://tele-okinawa.go.jp/wwo2021/en/event/event-1/</guid>
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Social media and behavior economics conference</title>
-      <link>https://tele-okinawa.go.jp/okinawarkationweek2021/en/event/event-2/</link>
+      <link>https://tele-okinawa.go.jp/wwo2021/en/event/event-2/</link>
       <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
       
-      <guid>https://tele-okinawa.go.jp/okinawarkationweek2021/en/event/event-2/</guid>
+      <guid>https://tele-okinawa.go.jp/wwo2021/en/event/event-2/</guid>
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
