@@ -92,34 +92,34 @@ map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 5
   
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/teleokinawa/"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "twitter"
+# icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/tele_okinawa/"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "github"
+# icon = "ti-github" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "linkedin"
+# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 ################################### Japanese language #####################################
 [Languages.ja]
