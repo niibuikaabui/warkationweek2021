@@ -97,7 +97,9 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/sunset-ocean.jpg"
   title : "なぜ沖縄か"
-  content : "リゾートしてイメージの強い沖縄。〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇"
+  content : "リゾートしてイメージの強い沖縄。<br>
+  ポストコロナ時代において沖縄は、「遊ぶ場所」としてだけでなく、「自分らしく生きる場所」として選ばれる。<br>
+  WorkとLifeが重なり合う ワーケーション を起点に、沖縄を可能性あふれる場所にする。"
   # video link
   video_link : "https://youtu.be/HmzVLU4B7DE"
 
