@@ -53,8 +53,8 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "2021/11/14～28は、沖縄でのワーケーションを最大限に楽しむための２週間です。沖縄全域でワーケーションに関わるイベントに参加したり、お得なキャンペーンをうけることができます。"
+author = "Workcation Week Okinawa 事務局"
 # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
 address = ""
