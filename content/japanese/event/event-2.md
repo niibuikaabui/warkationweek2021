@@ -3,7 +3,7 @@ title: "子供の貧困解決フューチャーセッション"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
 # event date
-date: "2021-011-10T15:27:17+06:00"
+date: "2021-11-10T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image

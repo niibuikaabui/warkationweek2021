@@ -44,6 +44,19 @@
     <loc>https://tele-okinawa.go.jp/wwo2021/event/event-4/</loc>
     <lastmod>2021-11-12T15:27:17+06:00</lastmod>
   </url><url>
+    <loc>https://tele-okinawa.go.jp/wwo2021/event/event-2/</loc>
+    <lastmod>2021-11-10T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tele-okinawa.go.jp/wwo2021/en/event/event-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://tele-okinawa.go.jp/wwo2021/event/event-2/"
+                />
+  </url><url>
     <loc>https://tele-okinawa.go.jp/wwo2021/event/event-3/</loc>
     <lastmod>2021-11-09T15:27:17+06:00</lastmod>
   </url><url>
@@ -209,19 +222,6 @@
   </url><url>
     <loc>https://tele-okinawa.go.jp/wwo2021/categories/%E7%89%B9%E9%9B%86/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://tele-okinawa.go.jp/wwo2021/event/event-2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tele-okinawa.go.jp/wwo2021/en/event/event-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://tele-okinawa.go.jp/wwo2021/event/event-2/"
-                />
   </url><url>
     <loc>https://tele-okinawa.go.jp/wwo2021/teacher/alex-rook/</loc>
   </url><url>
