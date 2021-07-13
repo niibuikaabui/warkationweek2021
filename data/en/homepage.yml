@@ -66,9 +66,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Okinawarkation-week 2021"
+  title : "About Workcation Week Okinawa 2021"
   image : "images/about/about-us.jpg"
-  content : "warkationweek is an event period for enjoying worcation in Okinawa."
+  content : "Workcation Week Okinawa 2021 is an event period for enjoying workcation in Okinawa."
   button:
     enable : false
     label : "Learn more"

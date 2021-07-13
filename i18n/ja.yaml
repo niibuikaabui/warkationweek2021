@@ -5,7 +5,7 @@
   translation: Contact Form
 
 - id: send
-  translation: send message
+  translation: 送信
 
 - id: contact_info
   translation: Contact Info

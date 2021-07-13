@@ -65,7 +65,7 @@ email = ""
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "G-6002KB5Y6B" # your id
+google_analitycs_id = "" # your id
 # top header
 top_header = false
 
@@ -129,7 +129,7 @@ contentDir = "content/japanese"
 weight = 1
 home = "home"
 # copyright
-copyright = "Copyright &copy; okinawarkationweek2021"
+copyright = "Copyright &copy; Workcation Week Okinawa2021"
 
 
 
@@ -218,7 +218,7 @@ contentDir = "content/english"
 weight = 2
 home = "Home"
 # copyright
-copyright = "Copyright &copy; okinawarkationweek2021"
+copyright = "Copyright &copy; Workcation Week Okinawa2021"
 
 
 

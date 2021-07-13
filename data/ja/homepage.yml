@@ -44,22 +44,22 @@ banner_feature:
   feature_item:
     # feature item loop
     - name : "県内全域でイベント開催"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      icon : "ti-pin" # icon pack : https://themify.me/themify-icons
       content : "ワーケーションウィーク中は盛りだくさんのイベントをご準備しています。"
 
     # feature item loop
     - name : "お得なキャンペーン"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      icon : "ti-money" # icon pack : https://themify.me/themify-icons
       content : "宿泊施設やワークスペースでお得なキャンペーンを実施しています。"
 
     # feature item loop
     - name : "個人でも法人でも"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      icon : "ti-user" # icon pack : https://themify.me/themify-icons
       content : "ワーケーションを認める企業はまだまだ少ないです。本ワーケーションウィークは直接業務にもつながるビジネスコンテンツもご用意しています"
 
     # feature item loop
     - name : "家族連れも大歓迎"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      icon : "ti-heart" # icon pack : https://themify.me/themify-icons
       content : "ご案内するプランや宿泊施設は、家族向けのものもあります。是非ご家族で遊びに来てください。"
 
 
