@@ -1,5 +1,5 @@
 ---
-title: "リゾテックワーケーションツアー"
+title: "【サンプル】リゾテックワーケーションツアー"
 # Schedule page publish date
 publishDate: "2021-05-01T00:00:00Z"
 # event date
@@ -34,4 +34,4 @@ speaker:
 type: "event"
 ---
 
-沖縄県内のインキュベート施設やワークスペースを巡るツアーです。
+本ページはサンプルです。

@@ -1,47 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>オキナワーケーションウィーク2021</title>
+    <title>Workcation Week Okinawa</title>
     <link>https://tele-okinawa.go.jp/wwo2021/</link>
-    <description>Recent content on オキナワーケーションウィーク2021</description>
+    <description>Recent content on Workcation Week Okinawa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Copyright &amp;copy; Workcation Week Okinawa2021</copyright>
     <lastBuildDate>Sat, 20 Nov 2021 15:27:17 +0600</lastBuildDate><atom:link href="https://tele-okinawa.go.jp/wwo2021/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>リゾテックワーケーションツアー</title>
+      <title>【サンプル】リゾテックワーケーションツアー</title>
       <link>https://tele-okinawa.go.jp/wwo2021/event/event-1/</link>
       <pubDate>Sat, 20 Nov 2021 15:27:17 +0600</pubDate>
       
       <guid>https://tele-okinawa.go.jp/wwo2021/event/event-1/</guid>
-      <description>沖縄県内のインキュベート施設やワークスペースを巡るツアーです。</description>
+      <description>本ページはサンプルです。</description>
     </item>
     
     <item>
-      <title>アガイティーダ体験キャンペーン</title>
-      <link>https://tele-okinawa.go.jp/wwo2021/event/event-4/</link>
-      <pubDate>Fri, 12 Nov 2021 15:27:17 +0600</pubDate>
-      
-      <guid>https://tele-okinawa.go.jp/wwo2021/event/event-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>子供の貧困解決フューチャーセッション</title>
+      <title>【サンプル】テレワーク活用のフューチャーセッション</title>
       <link>https://tele-okinawa.go.jp/wwo2021/event/event-2/</link>
       <pubDate>Wed, 10 Nov 2021 15:27:17 +0600</pubDate>
       
       <guid>https://tele-okinawa.go.jp/wwo2021/event/event-2/</guid>
-      <description>沖縄における子供の貧困について、多角的に議論する場です。</description>
-    </item>
-    
-    <item>
-      <title>STEM教育体験</title>
-      <link>https://tele-okinawa.go.jp/wwo2021/event/event-3/</link>
-      <pubDate>Tue, 09 Nov 2021 15:27:17 +0600</pubDate>
-      
-      <guid>https://tele-okinawa.go.jp/wwo2021/event/event-3/</guid>
-      <description>ステム（STEAM）教育プログラムを体験することができます。</description>
+      <description>本ページはサンプルです。</description>
     </item>
     
     <item>
@@ -60,7 +42,7 @@
       <pubDate>Thu, 06 May 2021 15:27:17 +0600</pubDate>
       
       <guid>https://tele-okinawa.go.jp/wwo2021/blog/blog-post-1/</guid>
-      <description>ワーケーションウィーク２０２１特設ページを開設 当サイトでは、ウィーク中に県内で開催される様々なイベントや、お得なキャンペーン情報などをお知らせします。</description>
+      <description>ワーケーションウィーク２０２１特設ページを開設 Workcation Week Okinawaの開催期間が2021年11月13日～28日に決定しました。 当サイトでは、ウィーク中に県内で開催される様々なイベントや、お得なキャンペーン情報などをお知らせします。 その仕事は沖縄でFacebookページでも最新情報を発振しますので、フォローお願いします。</description>
     </item>
     
     <item>
@@ -169,16 +151,6 @@
       
       <guid>https://tele-okinawa.go.jp/wwo2021/notice/notice-6/</guid>
       <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>オーシャンビューのワークスペースのご紹介</title>
-      <link>https://tele-okinawa.go.jp/wwo2021/blog/blog-post-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://tele-okinawa.go.jp/wwo2021/blog/blog-post-2/</guid>
-      <description>サンプル 〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇
-ゆいんちホテル</description>
     </item>
     
     <item>

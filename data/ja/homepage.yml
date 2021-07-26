@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "オキナワーケーションウィークおきなわ"
+    - title : "ワーケーションウィークおきなわ"
       content : "観光だけではもったいない！仕事もしやすい沖縄でのワーケーションを体感できる期間！"
       animation_in : "left"
       animation_out : "right"

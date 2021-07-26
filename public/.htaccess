@@ -14,4 +14,4 @@ AddOutputFilterByType DEFLATE image/gif
 AddOutputFilterByType DEFLATE image/jpeg
 AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
-ErrorDocument 404 https://tele-okinawa.go.jp/okinawarkationweek2021/404.html
+ErrorDocument 404 https://tele-okinawa.go.jp/wwo2021/404.html

@@ -1,7 +1,7 @@
 ---
-title: "子供の貧困解決フューチャーセッション"
+title: "【サンプル】テレワーク活用のフューチャーセッション"
 # Schedule page publish date
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 # event date
 date: "2021-11-10T15:27:17+06:00"
 # post save as draft
@@ -9,13 +9,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "子供の貧困解決策を探るフューチャーセッションです。"
+description : "テレワーク活用の可能性を探るフューチャーセッションです。"
 # Event image
 image: "images/events/futuresession.jpg"
 # location
 location: "オンライン"
 # entry fee
-fee: "From: $699"
+fee: "無料"
 # apply url
 apply_url : "#"
 # event speaker
@@ -44,4 +44,4 @@ speaker:
 type: "event"
 ---
 
-沖縄における子供の貧困について、多角的に議論する場です。
+本ページはサンプルです。
