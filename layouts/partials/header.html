@@ -61,7 +61,8 @@
           </ul>
 
           <!-- Language List -->
-          {{ if .IsTranslated }}
+          <!-- 21/8/1 一旦言語選択はなし -->
+          <!-- {{ if .IsTranslated }}
           <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
             {{ $siteLanguages := site.Languages}}
             {{ $pageLang := .Page.Lang}}
@@ -80,7 +81,7 @@
             {{ end }}
             {{ end }}
           </select>
-          {{ end }}
+          {{ end }} -->
         </div>
       </nav>
     </div>

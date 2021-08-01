@@ -106,6 +106,9 @@
 - id: our_teachers
   translation: Our Teachers
 
+- id: our_ambassador
+  translation: Our Ambassador
+
 - id: download
   translation: Download
 
