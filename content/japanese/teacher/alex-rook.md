@@ -1,12 +1,12 @@
 ---
-title: "Alex Rook"
+title: "松本 国一"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "富士通株式会社 シニアエバンジェリスト 松本 国一"
 # teacher portrait
-image: "images/teachers/teacher-2.jpg"
+image: "images/ambassador/k-matsumoto.jpg"
 # course
 course: "Vlogging"
 # biography
