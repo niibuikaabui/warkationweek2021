@@ -8,7 +8,7 @@
   translation: 送信
 
 - id: contact_info
-  translation: Contact Info
+  translation: SNS
 
 - id: subscribe_newsletter
   translation: Subscribe Newsletter
@@ -104,10 +104,13 @@
   translation: All
 
 - id: interest
-  translation: SUMMARY OF ACTIVITIES/INTERESTS
+  translation: 所属・役職
 
 - id: our_teachers
   translation: Our Teachers
+
+- id: our_ambassador
+  translation: アンバサダー
 
 - id: download
   translation: ダウンロード
