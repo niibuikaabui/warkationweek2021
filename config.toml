@@ -184,7 +184,7 @@ weight = 4
   
 [[Languages.ja.menu.main]]
 name = "問合せ"
-url = "https://forms.gle/a3izFzwpeWDY6wUE8"
+url = "contact"
 weight = 5
 
 
