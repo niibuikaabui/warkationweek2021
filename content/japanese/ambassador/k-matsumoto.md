@@ -14,7 +14,7 @@ belong: "富士通株式会社 シニアエバンジェリスト"
 # biography
 bio: "準備中"
 # interest
-interest: ["富士通株式会社 シニアエバンジェリスト","ビザスク-VisasQ- 登録コンサルタント","株式会社サーキュレーション 登録コンサルタント"]
+interest: ["富士通株式会社 シニアエバンジェリスト"]
 # contact info
 contact:
   # contact item loop
@@ -33,19 +33,19 @@ contact:
     link : "https://www.facebook.com/matsukuny"
 
   # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt"
-  #   link : "#"
+  - name : "Matsumoto Kunikazu"
+    icon : "ti-twitter-alt"
+    link : "https://twitter.com/matsukuny"
 
   # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype"
-  #   link : "#"
+  - name : "Matsumoto Kunikazu"
+    icon : "ti-instagram"
+    link : "https://www.instagram.com/kunikazu_matsumoto/"
 
   # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world"
-  #   link : "#"
+  - name : "エバンジェリスト 松本国一の最新動向チャネル"
+    icon : "ti-youtube"
+    link : "https://www.youtube.com/channel/UCvT6a3NRIxTPMg8t8E9uByQ"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"
@@ -58,4 +58,9 @@ type: "ambassador"
 
 ### メッセージ
 
-準備中
+1991年富士通株式会社へ入社、情報・通信・モバイルの合計15部門38部署でソフト / ハードの設計から製品・事業企画 / 販売推進 / 営業支援まで様々な業務に従事  
+現在、多彩な業務経験を活かしシニアエバンジェリストとして活躍中  
+雑誌や新聞 / Web / ラジオなど多くのメディアで働き方改革の紹介や池上彰氏、八塩圭子氏、小宮山宏氏など著名人との対談、ほか学会誌の執筆や日本銀行ラウンドテーブル、朝日教育会議、複数の高校・大学で講義など幅広く活躍中  
+  
+講演依頼.com、Speakers.jp、日本綜合経営協会、講師セレクト登録講師  
+サーキュレーション登録コンサルタント
