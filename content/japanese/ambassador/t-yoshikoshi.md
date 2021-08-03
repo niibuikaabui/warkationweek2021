@@ -1,5 +1,6 @@
 ---
 title: "吉越 輝信"
+weight: 11
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

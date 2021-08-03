@@ -1,5 +1,6 @@
 ---
 title: "橋本 正徳"
+weight: 1
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

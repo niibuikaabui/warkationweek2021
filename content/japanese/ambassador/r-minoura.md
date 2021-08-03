@@ -1,5 +1,6 @@
 ---
 title: "箕浦 龍一"
+weight: 20
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
