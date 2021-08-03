@@ -29,24 +29,24 @@ contact:
   #   link : "tel:+120345876"
 
   # contact item loop
+  # - name : "Hashimoto Masanori"
+  #   icon : "ti-facebook"
+  #   link : "https://www.facebook.com/hashimoto.masanori.account"
+
+  # contact item loop
   - name : "Hashimoto Masanori"
-    icon : "ti-facebook"
-    link : "https://www.facebook.com/hashimoto.masanori.account"
+    icon : "ti-twitter-alt"
+    link : "https://twitter.com/hsmt"
 
   # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt"
-  #   link : "#"
+  - name : "Hashimoto Masanori"
+    icon : "ti-instagram"
+    link : "https://www.instagram.com/immasanori/"
 
   # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype"
-  #   link : "#"
-
-  # contact item loop
-  # - name : "clarkmalik.com"
-  #   icon : "ti-world"
-  #   link : "#"
+  - name : "Masa's Vlog"
+    icon : "ti-youtube"
+    link : "https://www.youtube.com/channel/UCRm-yq5hpitoP0WfQmiWsNQ"
 
   # contact item loop
   # - name : "1313 Boulevard Cremazie,Quebec"
@@ -59,4 +59,7 @@ type: "ambassador"
 
 ### メッセージ
 
-準備中
+株式会社ヌーラボの橋本正徳でコザいます。  
+沖縄とは何かとご縁があり、特にコザ市と宮古島市で出会った人たちとの良い思い出がたくさんあり、とても情緒的な思い入れがあります。  
+ワーケーションは人が人として成長する機会、内省を通じて新たな自分に出会う機会があると思います。  
+ワーケーションウィーク、沖縄に行きたいな。

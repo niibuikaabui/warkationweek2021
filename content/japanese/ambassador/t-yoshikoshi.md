@@ -11,11 +11,11 @@ image: "images/ambassador/t-yoshikoshi.jpg"
 # course
 course: "ambassador"
 # 代表所属
-belong: "SAPジャパン エヴァンジェリスト, コミュニティマネージャー"
+belong: "SAPジャパン株式会社　エヴァンジェリスト"
 # biography
 bio: "準備中"
 # interest
-interest: ["SAPジャパン エヴァンジェリスト, コミュニティマネージャー"]
+interest: ["SAPジャパン株式会社　エヴァンジェリスト","Inspired. Lab コミュニティマネージャー"]
 # contact info
 contact:
   # contact item loop
@@ -34,14 +34,14 @@ contact:
     link : "https://www.facebook.com/teru4454"
 
   # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-twitter-alt"
-  #   link : "#"
+  - name : "Yoshikoshi Terunobu"
+    icon : "ti-twitter-alt"
+    link : "https://twitter.com/terru4454"
 
   # contact item loop
-  # - name : "Clark Malik"
-  #   icon : "ti-skype"
-  #   link : "#"
+  - name : "Yoshikoshi Terunobu"
+    icon : "ti-instagram"
+    link : "https://www.instagram.com/terru4454/"
 
   # contact item loop
   # - name : "clarkmalik.com"
@@ -59,4 +59,4 @@ type: "ambassador"
 
 ### メッセージ
 
-準備中
+コミュニティとコミュニティを混ぜ合わせ、今ここにない未来を共に創る、Nextワーケーションを生み出しましょう！
