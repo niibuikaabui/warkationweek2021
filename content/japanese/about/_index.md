@@ -1,5 +1,5 @@
 ---
-title: "ワーケーションウィークおきなわについて"
+title: "WORKCATION WEEK OKINAWAについて"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -9,7 +9,7 @@ image: "images/about/about-page.png"
 description : "2021/11/13～11/28は沖縄でワーケーションイベントが目白押し！"
 ---
 
-### WORKCATION WEEK OKINAWA（ワーケーションウィークおきなわ）とは？
+### WORKCATION WEEK OKINAWA（ワーケーションウィークオキナワ）とは？
 Workcation Week Okinawaは、沖縄がひとつになって、ワーケーションを盛り上げましょう！という構想です。
 
 ワーケーションに関わる県内事業・イベント・キャンペーン等を2021/11/13(土)～28(日)のWeek期間に集中させます。
