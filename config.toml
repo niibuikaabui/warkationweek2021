@@ -138,7 +138,7 @@ copyright = "Copyright &copy; Workcation Week Okinawa2021"
 
 # main menu
 [[Languages.ja.menu.main]]
-name = "ウィークについて"
+name = "WWOについて"
 url = "about"
 weight = 1
 
