@@ -141,6 +141,19 @@ copyright = "Copyright &copy; Workcation Week Okinawa2021"
 name = "WWOについて"
 url = "about"
 weight = 1
+hasChildren = true
+
+  [[Languages.ja.menu.main]]
+  parent = "WWOについて"
+  name = "概要"
+  url = "about#about"
+  weight = 1
+
+  [[Languages.ja.menu.main]]
+  parent = "WWOについて"
+  name = "アンバサダー"
+  url = "ambassador"
+  weight = 2
 
 [[Languages.ja.menu.main]]
 name = "イベント一覧"
