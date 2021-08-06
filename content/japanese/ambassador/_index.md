@@ -5,4 +5,5 @@ draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "一緒にワーケーションウィークを盛り上げて頂くアンバサダーの皆さんです"
+image: "ambassador/ab-list.png"
 ---
