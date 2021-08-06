@@ -70,7 +70,7 @@ google_analitycs_id = "" # your id
 # top header
 top_header = false
 # OGP用画像
-images = "images/logo_solo.png"
+image = "images/logo_solo.png"
 
 # Preloader
 [params.preloader]
