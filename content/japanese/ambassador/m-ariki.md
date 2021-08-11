@@ -29,9 +29,9 @@ contact:
   #   link : "tel:+120345876"
 
   # contact item loop
-  - name : "Ariki Mari"
-    icon : "ti-facebook"
-    link : "https://www.facebook.com/mari.ariki"
+  # - name : "Ariki Mari"
+  #   icon : "ti-facebook"
+  #   link : "https://www.facebook.com/mari.ariki"
 
   # contact item loop
   # - name : "Clark Malik"
