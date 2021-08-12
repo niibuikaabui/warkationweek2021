@@ -1,6 +1,6 @@
 ---
 title: "石川 貴志"
-weight: 4
+weight: 20
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

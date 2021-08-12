@@ -1,6 +1,6 @@
 ---
 title: "常盤木 龍治"
-weight: 2
+weight: 200
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

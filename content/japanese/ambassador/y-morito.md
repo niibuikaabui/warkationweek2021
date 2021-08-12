@@ -1,6 +1,6 @@
 ---
 title: "森戸 裕一"
-weight: 3
+weight: 350
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

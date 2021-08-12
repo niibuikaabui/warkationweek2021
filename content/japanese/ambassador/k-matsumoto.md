@@ -1,6 +1,6 @@
 ---
 title: "松本 国一"
-weight: 21
+weight: 310
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

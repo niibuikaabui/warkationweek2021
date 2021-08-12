@@ -1,6 +1,6 @@
 ---
 title: "高木 紀和"
-weight: 30
+weight: 160
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "大瀬良 亮"
-weight: 5
+weight: 50
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
