@@ -1,6 +1,6 @@
 ################################# Slider #####################################
 slider:
-  enable : true
+  enable : false
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
@@ -39,7 +39,7 @@ slider:
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : true
+  enable : false
   image : "images/banner/banner-feature.jpg"
   feature_item:
     # feature item loop
