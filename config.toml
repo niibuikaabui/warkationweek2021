@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-# baseURL = "https://tele-okinawa.go.jp/wwo2021/"
+baseURL = "https://tele-okinawa.go.jp/wwo2021/"
 # baseURL = "file:///C:/Hugo/warkationweek2021/public/"
-baseURL = "http://localhost:1313"
+# baseURL = "http://localhost:1313"
 title = "Workcation Week Okinawa"
 theme = "educenter-hugo"
 themesDir = "themes"
