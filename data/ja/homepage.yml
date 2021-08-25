@@ -68,7 +68,7 @@ about:
   enable : true
   title : "Workcation Week Okinawaについて"
   image : "images/about/about-us.jpg"
-  content : "Workcation Week Okinawaとは、沖縄がひとつになって、ワーケーションを盛り上げる！という構想です。<br>ワーケーションに関わる事業・イベント・キャンペーン等をWeek期間に集約することで、沖縄で仕事しやすい環境を提供します。"
+  content : "沖縄がひとつになって、ワーケーションを盛り上げる！という構想です。<br>ワーケーションに関わる事業・イベント・キャンペーン等をWeek期間に集約することで、沖縄で仕事しやすい環境を提供します。"
   button:
     enable : true
     label : "詳しくはこちら"

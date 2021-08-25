@@ -1,28 +1,30 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ with $data.homepage.success_story }}
-<section class="section nav-bg" style="padding: 0;">
+<!-- {{ with $data.homepage.success_story }} -->
+<section class="section nav-bg p0">
   <!-- <div class="container"> -->
     <!-- <div class="row py-5"></div>スペース -->
     <div class="row">
-      <div class="col-md-7 col-lg-6" style="padding-top: 150px;padding-bottom: 40px;">
+      <div class="top-img-left col-md-7 col-lg-6">
         <div class="py-4 px-5">
-          <h1 class="text-warning">WORKCATION<br>WEEK<br>OKINAWA</h1>
+          <h1 class="text-warning display-6">Workcation<br>Week<br>Okinawa</h1>
           <h3 class="text-warning">ワーケーションウィークオキナワ</h3>
           <br><br>
           <h3 class="text-white">2021.11.13(Sat)-11.28(Sun)</h3>
         </div>
-        <div class="py-4"></div>
+        <div class="row py-5 d-none d-md-block"></div><!-- スペース -->
+        <!-- <div class="py-4"></div> -->
       </div>
       <div class="col-md-5 col-lg-6 bg-cover" data-background="{{ .Site.BaseURL }}images/backgrounds/wwo-top-bg-image.jpg">
         <div class="row py-5 d-none d-md-block"></div><!-- スペース -->
+        <div class="row py-5 d-none d-md-block"></div><!-- スペース -->
         <div class="p-4">
-          <div style="background-color:rgba(255, 255, 255, 0.5);">
-            <h4 class="text-dark text-center">休暇だけの沖縄なんてもったいない。<br>これからの、WorkとLifeを考える16日間。</h4>
+          <div class="catchcopy-bg">
+            <h4 class="catchcopy">休暇だけの沖縄なんてもったいない。<br>これからの、WorkとLifeを考える16日間。</h4>
           </div>
         </div>
       </div>
     </div>
   <!-- </div> -->
 </section>
-{{ end }}
+<!-- {{ end }} -->

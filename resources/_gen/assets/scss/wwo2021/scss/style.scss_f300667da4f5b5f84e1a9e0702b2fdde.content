@@ -9,6 +9,7 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
 @font-face {
   font-family: 'futura-bold';
   src: url("../fonts/Futura-Bold.woff") format("woff");
@@ -36,20 +37,20 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 60px; }
+  font-size: 65px; }
   @media (max-width: 575px) {
     h1, .h1 {
-      font-size: 45px; } }
+      font-size: 34px; } }
 h2, .h2 {
   font-size: 40px; }
   @media (max-width: 575px) {
     h2, .h2 {
-      font-size: 30px; } }
+      font-size: 28px; } }
 h3, .h3 {
   font-size: 25px; }
   @media (max-width: 575px) {
     h3, .h3 {
-      font-size: 20px; } }
+      font-size: 17px; } }
 h4, .h4 {
   font-size: 20px; }
   @media (max-width: 575px) {
@@ -606,6 +607,22 @@ link:focus,
       border: 0;
       outline: 0; }
 
+/* header-image */
+.p0 {
+  padding: 0; }
+
+.top-img-left {
+  padding-top: 150px;
+  padding-bottom: 60px;
+  padding-right: 0; }
+
+.catchcopy-bg {
+  background-color: rgba(255, 255, 255, 0.5); }
+  .catchcopy-bg .catchcopy {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center; }
+
+/* /header-image */
 /* banner feature */
 .feature-icon {
   font-size: 50px;
