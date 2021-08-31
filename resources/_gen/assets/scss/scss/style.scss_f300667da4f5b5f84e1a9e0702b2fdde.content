@@ -611,6 +611,10 @@ link:focus,
 .p0 {
   padding: 0; }
 
+.top-title {
+  font-size: 3rem;
+  margin-inline-end: auto; }
+
 .top-img-left {
   padding-top: 150px;
   padding-bottom: 60px;
