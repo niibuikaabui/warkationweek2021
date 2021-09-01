@@ -37,6 +37,11 @@ contact:
     icon : "ti-facebook"
     link : "https://www.facebook.com/takashiishikawa0711"
 
+  # contact item loop
+  - name : "takashiishikawa0711"
+    icon : "ti-instagram"
+    link : "https://www.instagram.com/takashiishikawa0711/"
+
 # contact item loop
   # - name : "Clark Malik"
   #   icon : "ti-twitter-alt"
