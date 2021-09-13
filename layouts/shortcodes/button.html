@@ -1,9 +1,8 @@
 <!-- ★buttonのshortcodeは作成中 -->
 <!-- button -->
-<div class="col-lg-6 col-sm-8">
-    <div class="bg-white p-5">
-      <h2 class="section-title">{{ .title | markdownify }}</h2>
-      <p>{{ .content | markdownify }}</p>
-    </div>
-  </div>
 <!-- button -->
+<div class="row">
+  <div class="col-12 text-center">
+    <a href="{{ .Get `p-href` }}" class="btn btn-sm btn-outline-primary d-sm-none d-inline-block">{{ .Get `p-text` }}</a>
+  </div>
+</div>

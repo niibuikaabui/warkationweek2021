@@ -18,19 +18,18 @@ type: "post"
 ---
 
 ### WWOロゴデータはご自由にお使いください！
-{{< img src="WWO_logo_背景有.png" alt="WWO_logo" >}}
-
-##### 背景有ロゴ
-<a href="WWO_logo_背景有.png" download>png形式(背景有)のダウンロード</a>
-
-##### 背景無ロゴ
-<a href="WWO_logo_背景無.png" download>png形式(背景無)のダウンロード</a>
-
-##### Adobe illustrator形式ロゴ
-<a href="WWO_logo.ai" download>ai形式のダウンロード</a>
 
 #### ご注意
 ロゴはご自由にお使い頂いて結構ですが、できるだけ事務局ご一報はください。  
 著作権は事務局が保持しております。  
 社会通念上、使用目的がふさわしくないと判断した場合、使用を差し止める可能性があります。  
 （本ロゴは、富士通株式会社の一般社員の方にプロボノで作成頂きました）
+
+##### 背景有ロゴ
+<a href="WWO_logo_背景有.png" class="btn btn-sm btn-primary d-inline-block" download>png形式(背景有)のダウンロード</a>
+
+##### 背景無ロゴ
+<a href="WWO_logo_背景無.png" class="btn btn-sm btn-primary d-inline-block" download>png形式(背景無)のダウンロード</a>
+
+##### Adobe illustrator形式ロゴ
+<a href="WWO_logo.ai" class="btn btn-sm btn-primary d-inline-block" download>ai形式のダウンロード</a>
