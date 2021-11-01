@@ -106,10 +106,10 @@ title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/teleokinawa/"
 
-# [[params.social]]
-# title = "twitter"
-# icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/WWOkinawa2021"
 
 [[params.social]]
 title = "instagram"
@@ -158,6 +158,12 @@ hasChildren = true
   name = "アンバサダー"
   url = "ambassador"
   weight = 2
+
+  [[Languages.ja.menu.main]]
+  parent = "WWOについて"
+  name = "Droppin導入店舗"
+  url = "blog/blog-post-5/"
+  weight = 3
 
 [[Languages.ja.menu.main]]
 name = "イベント一覧"

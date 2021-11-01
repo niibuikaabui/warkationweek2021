@@ -71,7 +71,7 @@
   translation: イベントについて
 
 - id: event_speaker
-  translation: 主催者・登壇者
+  translation: 主催者
 
 - id: more_event
   translation: 全てのイベント

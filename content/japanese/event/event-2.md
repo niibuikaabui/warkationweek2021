@@ -4,6 +4,7 @@ title: "【サンプル】テレワーク活用のフューチャーセッショ
 publishDate: "2021-01-01T00:00:00Z"
 # event date
 date: "2021-11-10T15:27:17+06:00"
+term: "2021-11-18～11/19"
 # post save as draft
 draft: true
 # page title background image

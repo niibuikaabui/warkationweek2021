@@ -1,0 +1,35 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ with $data.homepage.success_story }}
+<section class="section bg-cover" data-background="{{ .bg_image | absURL }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">WWOの過ごし方</h2>
+    </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="bg-gray p-5">
+          <h3 class="section-title">①出張で沖縄に入る</h3>
+          <p>リゾテックEXPO、大交易会等で沖縄入りした方は、少し延泊してWWOイベントにもご参加ください。</p>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <a href="/wwo-course#1">
+        <div class="bg-gray p-5">
+          <h3 class="section-title">②中長期ワーケーションを楽しむ</h3>
+          <p>WWO期間中はDroppinによりお得にテレワーク施設をご利用できます。自治体のイベントに参加して、地元との交流をはかることもできます。</p>
+        </div>
+        </a>
+      </div>
+      <div class="col-sm-4">
+        <div class="bg-gray p-5">
+          <h3 class="section-title">③県内企業がテレワークする</h3>
+          <p>WWOをきっかけに、県内企業の方もテレワークしてみてはどうでしょうか。県外企業との新規事業の機会も生まれるかもしれません。</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

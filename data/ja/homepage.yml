@@ -94,7 +94,7 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/sunset-ocean.jpg"
   title : "なぜ沖縄か？"
   content : "リゾートしてイメージの強い沖縄。<br>
