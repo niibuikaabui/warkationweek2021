@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "「企業を使い倒せ！ワーケーションから生まれる地域の価値を考える」アイデアソン"
 # Event image
-image: "images/events/noimage.png"
+image: "images/events/fujitsu.jpg"
 # location
 location: "未定"
 # entry fee

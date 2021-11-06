@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "note投稿企画　仕事と休暇を組み合わせた妄想沖縄旅　＃沖縄妄想滞在記"
 # Event image
-image: "images/events/noimage.png"
+image: "images/events/re-sort.jpg"
 # location
 location: "オンライン"
 # entry fee
