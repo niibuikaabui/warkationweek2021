@@ -3,7 +3,7 @@ title: "ワーケーションって結局何？沖縄のワーケーションを
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
-date: "2021-11-13T00:00:00+06:00"
+date: "2021-11-02T00:00:00+06:00"
 term: "2021/11/2 19:00-20:30"
 # post save as draft
 draft: false

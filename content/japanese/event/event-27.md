@@ -3,7 +3,7 @@ title: "ワーケーションから起業！？コザにワーケーションき
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
-date: "2021-11-13T00:00:00+06:00"
+date: "2021-11-08T00:00:00+06:00"
 term: "2021/11/8 17:00-18:00"
 # post save as draft
 draft: false

@@ -3,7 +3,7 @@ title: "note投稿企画　仕事と休暇を組み合わせた妄想沖縄旅�
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
-date: "2021-11-20T00:00:00+06:00"
+date: "2021-11-13T00:00:00+06:00"
 term: "2021/11/13-予定"
 # post save as draft
 draft: false
