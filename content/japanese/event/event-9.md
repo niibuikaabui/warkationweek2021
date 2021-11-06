@@ -1,5 +1,5 @@
 ---
-title: "（仮）テレワーク・ワーケーションに関するオンラインセミナー"
+title: "テレワーク・ワーケーションに関するオンラインセミナー"
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
@@ -10,7 +10,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "(仮)テレワーク・ワーケーションに関するオンラインセミナー"
+description : "テレワーク・ワーケーションに関するオンラインセミナー"
 # Event image
 image: "images/events/noimage.png"
 # location
