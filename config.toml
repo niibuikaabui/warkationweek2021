@@ -161,7 +161,7 @@ hasChildren = true
 
   [[Languages.ja.menu.main]]
   parent = "WWOについて"
-  name = "Droppin導入店舗"
+  name = "お得な施設利用クーポン"
   url = "blog/blog-post-5/"
   weight = 3
 

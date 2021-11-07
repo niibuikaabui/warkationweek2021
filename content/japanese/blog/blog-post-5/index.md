@@ -1,11 +1,11 @@
 ---
-title: "ワークスペースがお得に利用できるDroppinのご紹介"
+title: "ワークスペースがお得に利用できるdroppinのご紹介"
 date: 2021-08-25T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "WWO公認ソリューション、ワークスペースがお得に利用できるDroppinのご紹介。"
+description : "WWO公認ソリューション、ワークスペースがお得に利用できるdroppinのご紹介。"
 # post thumbnail
 image: "blog/blog-post-5/dropin-logo.jpg"
 # post author
@@ -17,13 +17,21 @@ tags: []
 type: "post"
 ---
 
-### WWOでは、Droppinを使用してお得にワークスペースを使用可能です！
+### WWOでは、droppinを使用してお得にワークスペースを使用可能です！
+「せっかく沖縄に来たのに仕事なんて・・・」そう思う方もいらっしゃるかと思います。  
+そこで、今回は沖縄県内のワークスペースがお得に利用できるアプリクーポン(NTTコミュニケーションズ様提供)をご用意しました。  
+  
+期間限定のクーポンを利用して、まずはご興味のある施設を体験してみてはいかがでしょうか？  
+もちろん、県内の方もご利用可能です！ワークスペースなんて自分には関係ないと思っていた方も是非お試しください。  
+  
+WWO期間中の16日間で全施設使い放題のクーポンも販売します。vacationよりwork中心の方にとってはかなりお得です。  
+南部から北部まで自由にワーケーションを楽しむこともできます。
 {{< img src="おためしクーポン.jpg" alt="オキナワおためしクーポン" >}}
-#### ワーケーションウィークオキナワｘDroppin
+#### ワーケーションウィークオキナワｘdroppin
 ##### １　オキナワおためしクーポン
 スペース利用料から**2,000円分割引**！  
 ・スペース利用料金に充当が可能な、「従量課金用割引クーポン」を発行します。  
-・利用者がDroppin初回会員登録の場合は、**更に2,000円クーポン**が発行されます。  
+・利用者がdroppin初回会員登録の場合は、**更に2,000円クーポン**が発行されます。  
 ・利用可能期間は10月1日～11月30日です。
 
 ##### ２　オキナワ使い放題クーポン
@@ -35,16 +43,17 @@ type: "post"
 {{< img src="dropin使い方.jpg" alt="droppin使い方" >}}
 
 ##### アプリインストール
-アプリストアから「Droppin」で検索！
+アプリストアから「droppin」で検索！
 
 [{{< figure src="appstore.png" class="center" width="180" >}}](https://apps.apple.com/jp/app/id1530308628?mt=8)
 [{{< figure src="android-store.png" class="center" width="180" >}}](https://play.google.com/store/apps/details?id=com.ntt.dropin&launch=true)
-Droppin詳細は公式サイトをご確認ください。  
+droppin詳細は公式サイトをご確認ください。  
 https://nttcom-droppin.com/  
   
-#### Droppin導入店舗
+#### droppin導入店舗
 
 <div class="row">
+  <div class="col-12"><p>導入店舗は変更になる可能性があります。最新情報はアプリからご確認ください。</p></div>
   <div class="col-lg-4 col-sm-6">
     <div class="card">
       <div class="card-body">
