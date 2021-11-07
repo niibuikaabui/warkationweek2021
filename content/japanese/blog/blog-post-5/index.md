@@ -18,14 +18,15 @@ type: "post"
 ---
 
 ### WWOでは、droppinを使用してお得にワークスペースを使用可能です！
-「せっかく沖縄に来たのに仕事なんて・・・」そう思う方もいらっしゃるかと思います。  
+「仕事なんてホテルの部屋で十分」そう思う方もいらっしゃるかもしれません。  
 そこで、今回は沖縄県内のワークスペースがお得に利用できるアプリクーポン(NTTコミュニケーションズ様提供)をご用意しました。  
-  
 期間限定のクーポンを利用して、まずはご興味のある施設を体験してみてはいかがでしょうか？  
-もちろん、県内の方もご利用可能です！ワークスペースなんて自分には関係ないと思っていた方も是非お試しください。  
+オーシャンビュー、モノレール駅近、個室が充実、人と交流できるなど、沖縄には多種多様な施設が揃っています。  
   
 WWO期間中の16日間で全施設使い放題のクーポンも販売します。vacationよりwork中心の方にとってはかなりお得です。  
-南部から北部まで自由にワーケーションを楽しむこともできます。
+南部から北部まで自由にワーケーションを楽しむこともできます。  
+  
+もちろん、県内の方もご利用可能です！ワークスペースなんて自分には関係ないと思っていた方も是非お試しください。  
 {{< img src="おためしクーポン.jpg" alt="オキナワおためしクーポン" >}}
 #### ワーケーションウィークオキナワｘdroppin
 ##### １　オキナワおためしクーポン
@@ -206,19 +207,6 @@ https://nttcom-droppin.com/
         <div class="card-body">
             <p><i class="ti-location-pin text-primary mr-2"></i>那覇市</p>
             <h4 class="card-title"><a href="https://create-own-life.com/">create own life</a></h4>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="col-lg-4 col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <div class="card-img position-relative">
-            <img class="card-img-top rounded-0" src="her80.jpg" alt="HER80°">
-        </div>
-        <div class="card-body">
-            <p><i class="ti-location-pin text-primary mr-2"></i>那覇市</p>
-            <h4 class="card-title"><a href="http://her80.jp/">HER80°</a></h4>
         </div>
       </div>
     </div>
