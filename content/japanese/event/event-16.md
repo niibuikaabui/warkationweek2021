@@ -14,7 +14,7 @@ description : "エンジニア開発イベント"
 # Event image
 image: "images/events/lagoon.jpg"
 # location
-location: "Startup Lab Lagoon"
+location: "沖縄市"
 # entry fee
 fee: "無料"
 # apply url

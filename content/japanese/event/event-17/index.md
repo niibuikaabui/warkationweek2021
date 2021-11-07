@@ -14,7 +14,7 @@ description : "「人」が鍵の地方創生セミナー 沖縄型ジョブケ�
 # Event image
 image: "images/events/jobcation.jpg"
 # location
-location: "沖縄コンベンションセンター"
+location: "宜野湾市"
 # entry fee
 fee: "無料"
 # apply url

@@ -14,7 +14,7 @@ description : "リゾテックEXPOに合わせてワーケーションツアー�
 # Event image
 image: "images/events/resorteck.png"
 # location
-location: "沖縄コンベンションセンター"
+location: "宜野湾市"
 # entry fee
 fee: "無料"
 # apply url

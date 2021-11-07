@@ -14,7 +14,7 @@ description : "「企業を使い倒せ！ワーケーションから生まれ�
 # Event image
 image: "images/events/fujitsu.jpg"
 # location
-location: "未定"
+location: "宮古島市"
 # entry fee
 fee: "無料"
 # apply url
@@ -22,7 +22,7 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  - name : "富士通Japan株式会社、宮古島市"
+  - name : "富士通Japan株式会社、宮古島市役所"
     # image : "images/event-speakers/speaker-1.jpg"
     designation : "主催者"
 

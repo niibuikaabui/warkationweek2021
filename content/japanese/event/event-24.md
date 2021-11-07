@@ -14,7 +14,7 @@ description : "【沖縄県民限定】全く初めての方向けIllustrator入
 # Event image
 image: "images/events/aicamp.png"
 # location
-location: "SEASIDE OFFICE"
+location: "大宜味村"
 # entry fee
 fee: "無料"
 # apply url
@@ -22,7 +22,7 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  - name : "大宜味村"
+  - name : "SEASIDE OFFICE"
     # image : "images/event-speakers/speaker-1.jpg"
     designation : "主催者"
 

@@ -14,7 +14,7 @@ description : "【ハイアットリージェンシー瀬良垣アイランド�
 # Event image
 image: "images/events/hyatt.png"
 # location
-location: "ハイアットリージェンシー瀬良垣アイランド沖縄"
+location: "恩納村"
 # entry fee
 fee: "無料"
 # apply url

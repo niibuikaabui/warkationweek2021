@@ -5,7 +5,8 @@
   <div class="container">
     <div class="row">
       {{ range .Data.Pages.ByDate }}
-      <div class="col-lg-4 col-sm-6 mb-5">
+      <div data-category="{{ .Params.Location | urlize }}" class="col-lg-4 col-sm-6 mb-5">
+      <!-- <div class="col-lg-4 col-sm-6 mb-5"> -->
         {{ .Render "event" }}
       </div>
       {{ end }}
@@ -15,7 +16,7 @@
     </div>
     <div class="row">
       <!-- プラグイン本体 -->
-      <iframe height="1000" width="1000" frameborder="0" scrolling="auto" src="https://jorte.com/calendar/plugin/calendar/view/6178f21fdee9e7123bc773ff?showRefs=0&amp;refill=month&amp;nationalHoliday=JP&amp;showTaskList=true&amp;showDetail=true"></iframe>
+      <iframe height="1000" width="100%" frameborder="0" scrolling="auto" src="https://jorte.com/calendar/plugin/calendar/view/6178f21fdee9e7123bc773ff?showRefs=0&amp;refill=month&amp;nationalHoliday=JP&amp;showTaskList=true&amp;showDetail=true"></iframe>
       <!-- プラグインの高さを自動調整するためのスクリプト -->
 <script type="text/javascript">
   window.addEventListener("message",_rs,0);function _rs(e){if(e.origin==="https://jorte.com"){$("iframe").each(function(i,el){if ($(el).attr("src")===e.data.location){el.style.height=e.data.height+"px";}});}};

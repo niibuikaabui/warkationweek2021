@@ -14,7 +14,7 @@ description : "はじめてのExcel関数グラフ講座"
 # Event image
 image: "images/events/nagolab.jpg"
 # location
-location: "ナゴラボ"
+location: "名護市"
 # entry fee
 fee: "1,300円"
 # apply url

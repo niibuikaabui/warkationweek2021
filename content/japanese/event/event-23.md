@@ -14,7 +14,7 @@ description : "「持続可能な開発」の可能性を地域とともに探�
 # Event image
 image: "images/events/kumejima.jpg"
 # location
-location: "合同会社PLUCK"
+location: "久米島町"
 # entry fee
 fee: "無料"
 # apply url
@@ -22,7 +22,7 @@ apply_url : "#"
 # event speaker
 speaker:
   # speaker loop
-  - name : "久米島町"
+  - name : "合同会社PLUCK"
     # image : "images/event-speakers/speaker-1.jpg"
     designation : "主催者"
 

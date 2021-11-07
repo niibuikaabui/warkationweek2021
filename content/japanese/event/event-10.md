@@ -14,7 +14,7 @@ description : "地域ブランディング事業内　アイコンイベント"
 # Event image
 image: "images/events/noimage.png"
 # location
-location: "未定"
+location: "うるま市"
 # entry fee
 fee: "無料"
 # apply url
