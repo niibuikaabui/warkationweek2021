@@ -6,7 +6,7 @@ publishDate: "2021-01-01T00:00:00Z"
 date: "2021-11-27T00:00:00+06:00"
 term: "11/27"
 # post save as draft
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description

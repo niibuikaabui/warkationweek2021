@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "沖縄ウェルネスワーケーションの魅力をより高めるワーケーションテック・アイデアソン2021"
 # Event image
-image: "images/events/workcation-tech.png"
+image: "images/events/workcation-tech.jpg"
 # location
 location: "宜野湾市、オンライン"
 # entry fee

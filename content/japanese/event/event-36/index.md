@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "共創型アグリテックイベント WWO Agri-tech Garage"
 # Event image
-image: "images/events/noimage.png"
+image: "images/events/agri-tech.png"
 # location
 location: "宮古島市"
 # entry fee
@@ -52,3 +52,4 @@ KDDIウェブコミュニケーションズ
 #### 【実施場所】
 ヤッカヤッカコリビング  
 https://miyakojimacity.jp/  
+{{< img src="WWO2021_agri-tech_Garege.png" alt="アグリテック" >}}
