@@ -1,0 +1,13 @@
+{
+    "title": {{ .Site.Title | jsonify }},
+    "url": {{ .Permalink | jsonify }},{{ with .OutputFormats.Get "event" }}
+    "feed": {{ .Permalink | jsonify }},{{ end }}
+    "entry": [{{ range $i, $v := first 100 .Data.Pages }}{{ if ne $i 0 }},{{ end }}{{ with $v }}
+      {
+        "title": {{ .Title | jsonify }},{{ with .Section }}
+        "section": {{ . | jsonify }},{{ end }}{{ with .Description }}
+        "description": {{ . | jsonify }},{{ end }}
+        "url": {{ .Permalink | jsonify }}
+      }{{ end }}{{ end }}
+    ]
+  }

@@ -1,5 +1,5 @@
 ---
-title: "（仮）沖縄テレワーカーを活用しよう！"
+title: "沖縄テレワーカーを活用しよう！"
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
@@ -10,9 +10,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "（仮）沖縄テレワーカーを活用しよう！"
+description : "沖縄テレワーカーを活用しよう！"
 # Event image
-image: "images/events/noimage.png"
+image: "images/events/island Connect Okinawa.jpg"
 # location
 location: "オンライン"
 # entry fee
@@ -36,11 +36,12 @@ type: "event"
 sdgs: "8.働きがいも経済成長も"
 ---
 
-### （仮）沖縄テレワーカーを活用しよう！
+### 様々なお仕事を依頼できる沖縄テレワーカーを活用しよう！
 『island Connect Okinawa』に登録している、沖縄在住テレワーカー1,000人を活用してみませんか？  
 周辺業務を外部人材によるアウトサポーティングを受けることで、社内人材に主要業務を集中させることができます。県や自治体からの補助・委託事業ですので、安心してご利用いただけます。  
   
-【動画配信】  
+#### 【期間限定動画配信】  
+<!-- https://youtu.be/BX8vm1SnTWg   -->
 ①island Connect Okinawaとは  
 ②外部人材を使用するメリット  
 ③どのような案件を頼むことができるのか  
@@ -50,4 +51,5 @@ sdgs: "8.働きがいも経済成長も"
 #### お問い合わせ
 株式会社アイボリー  
 kogushi@ivory.systems  
-island Connect Okinawaホームページ：https://icokinawa.com/  
+island Connect Okinawaホームページ：
+https://icokinawa.com/  

@@ -1,5 +1,5 @@
 ---
-title: "RexoTech EXPO 沖縄南城市ワーケーションツアー"
+title: "ResoTech EXPO 沖縄南城市ワーケーションツアー"
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
@@ -10,7 +10,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "RexoTech EXPO 沖縄南城市ワーケーションツアー"
+description : "ResoTech EXPO 沖縄南城市ワーケーションツアー"
 # Event image
 image: "images/events/resortech-nanjyo.png"
 # location

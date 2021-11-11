@@ -4,7 +4,7 @@ title: "note投稿企画　仕事と休暇を組み合わせた妄想沖縄旅�
 publishDate: "2021-01-01T00:00:00Z"
 # event date
 date: "2021-11-13T00:00:00+06:00"
-term: "2021/11/13-予定"
+term: "2021/11/9-12/7"
 # post save as draft
 draft: false
 # page title background image
@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "note投稿企画　仕事と休暇を組み合わせた妄想沖縄旅　＃沖縄妄想滞在記"
 # Event image
-image: "images/events/re-sort.jpg"
+image: "images/events/jtb-note.png"
 # location
 location: "オンライン"
 # entry fee
@@ -46,6 +46,15 @@ Re:sort@OKINAWAは、「沖縄の新しい滞在スタイルの発見」をテ�
 仕事をしながらふらっと沖縄へ訪れるスタイルでも、長期滞在するために仕事を取り入れるスタイルでも、あなたなりの理想の滞在プランを思う形を書いていただけると嬉しいです。  
   
 やってみたいこと、行きたいところ、理想の働きかたや作業環境などを詰め込んで、妄想を膨らませちゃってください！  
+気になった方は、ぜひRe:sort@OKINAWA noteをフォローしてくださいね！  
+#### 妄想旅を現実にする賞品をご用意
+最優秀作品に選ばれた1名様には、妄想旅を実現してもらうサポートとして「OKINAWA WORKCATION PACK」をプレゼント！  
+【「OKINAWA WORKCATION PACK」に含まれる特典】  
+①沖縄渡航/滞在用のJTBダイナミックパッケージ  
+②Re:sort@OKINAWAコーラルパス(オプション利用も含む)  
   
-#### お申込みページ
-（準備中）
+あなたが思う「遊びと仕事を組み合わせた理想の沖縄旅」をRe:sort@OKINAWAで実現しちゃいましょう！  
+また、優秀作品に選ばれた3名様には、「Re:sort@OKINAWAコーラルパス(オプション別)」をプレゼント！  
+ぜひ沖縄妄想滞在記を実現するために、お役立てください！  
+#### 詳細ページ
+https://note.com/resort_okinawa/n/n1f20864a9f31

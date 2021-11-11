@@ -1,5 +1,5 @@
 ---
-title: "RexoTech EXPO 首里城DX 日帰りツアー"
+title: "ResoTech EXPO 首里城DX 日帰りツアー"
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
@@ -10,7 +10,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "RexoTech EXPO 首里城DX 日帰りツアー"
+description : "ResoTech EXPO 首里城DX 日帰りツアー"
 # Event image
 image: "images/events/resortech-syurijyo-dx.png"
 # location

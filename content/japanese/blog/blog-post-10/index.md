@@ -18,7 +18,7 @@ type: "post"
 ---
 
 ### droppinのチラシが出来上がりました！
-
+droppinの
 {{< img src="droppin-pamphlet.jpg" alt="droppinチラシ" >}}
   
 詳細はこちら  
