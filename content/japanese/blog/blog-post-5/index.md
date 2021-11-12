@@ -211,4 +211,43 @@ https://nttcom-droppin.com/
       </div>
     </div>
   </div>
+  <div class="col-lg-4 col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <div class="card-img position-relative">
+            <img class="card-img-top rounded-0" src="nansei.jpg" alt="南西観光ホテル">
+        </div>
+        <div class="card-body">
+            <p><i class="ti-location-pin text-primary mr-2"></i>那覇市</p>
+            <h4 class="card-title"><a href="https://www.nansei-kanko.com/">南西観光ホテル</a></h4>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <div class="card-img position-relative">
+            <img class="card-img-top rounded-0" src="toyopla.png" alt="トヨプラ">
+        </div>
+        <div class="card-body">
+            <p><i class="ti-location-pin text-primary mr-2"></i>豊見城市</p>
+            <h4 class="card-title"><a href="https://toyopla.jp/">トヨプラ</a></h4>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4 col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <div class="card-img position-relative">
+            <img class="card-img-top rounded-0" src="klatch-ishigaki.jpg" alt="KLATCH Ishigaki">
+        </div>
+        <div class="card-body">
+            <p><i class="ti-location-pin text-primary mr-2"></i>石垣市</p>
+            <h4 class="card-title"><a href="https://workation-lab.com/">Coworking Space KLATCH Ishigaki</a></h4>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
