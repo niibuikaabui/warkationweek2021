@@ -52,4 +52,4 @@ sdgs: "8.働きがいも経済成長も"
 21:00 クロージング  
   
 #### 詳細・申込
-https://startupfesta.okinawa/  
+<a href="https://startupfesta.okinawa/" target="_blank">特設サイト</a>

@@ -47,4 +47,4 @@ sdgs: "11.住み続けられるまちづくりを"
 ※ Zoomによる配信を予定しています。  
   
 #### お申込み
-https://tabinova-event-20211120.peatix.com/view
+<a href="https://tabinova-event-20211120.peatix.com/view" target="_blank">tavinovaサイト</a>

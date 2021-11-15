@@ -48,8 +48,8 @@ Startup lab Lagoon が位置する沖縄県沖縄市コザでワーケーショ�
 キャリア20年以上のエンジニアの方々と、直接話せる機会！ 滅多にないチャンスですので、ぜひ早めにお申し込みください。  
 
 #### 【登壇者紹介】
-桜井 太郎氏 https://persol-tech-s.co.jp/corporate/recruiting/career/interview/member10/
-大関 三枝子氏 https://persol-tech-s.co.jp/corporate/news/report/20201028.html
+<a href="https://persol-tech-s.co.jp/corporate/recruiting/career/interview/member10/" target="_blank">桜井 太郎氏</a>  
+<a href="https://persol-tech-s.co.jp/corporate/news/report/20201028.html" target="_blank">大関 三枝子氏</a>  
 
 #### 【対象の方】
 今後のキャリアを考えたい方  
@@ -78,4 +78,4 @@ Startup lab Lagoon 沖縄市中央1丁目7-8
 オンラインも同時開催  
 
 #### 【詳細・お申込み】
-https://connpass.com/event/230225/  
+<a href="https://connpass.com/event/230225/" target="_blank">外部サイト</a>  

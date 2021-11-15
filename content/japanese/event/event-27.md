@@ -46,4 +46,4 @@ sdgs: "8.働きがいも経済成長も"
 2021年11月8日 (月) 17:00 - 18:00  
   
 #### 詳細
-https://lagoon-koza.co/events/43
+<a href="https://lagoon-koza.co/events/43" target="_blank">ウェブサイト</a>

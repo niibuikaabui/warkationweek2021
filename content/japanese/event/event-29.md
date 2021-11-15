@@ -73,6 +73,6 @@ sdgs: "関連無し"
 Startup Lab Lagoon（沖縄市中央1-7-8)  
   
 #### 詳細・申込
-https://startupbootcamp1119.peatix.com/?fbclid=IwAR3-Vi3K7TVDoSbRK8wNObAL3qCaodtKwpfeIJVNU1Zp0yijzL7GGBNBxnc
-  
+<a href="https://startupbootcamp1119.peatix.com/?fbclid=IwAR3-Vi3K7TVDoSbRK8wNObAL3qCaodtKwpfeIJVNU1Zp0yijzL7GGBNBxnc" target="_blank">ウェブサイト</a>
+
 参加費は無料です。  

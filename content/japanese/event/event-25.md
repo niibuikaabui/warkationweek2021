@@ -49,4 +49,4 @@ sdgs: "8.働きがいも経済成長も"
 まずは最大2週間程度の短期トライアルから。  
   
 #### 詳細・問い合わせ先
-https://www.itcokinawa.jp/content/news/2876
+<a href="https://www.itcokinawa.jp/content/news/2876" target="_blank">ウェブサイト</a>

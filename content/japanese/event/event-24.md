@@ -58,4 +58,4 @@ sdgs: "8.働きがいも経済成長も"
 初日に住所の確認できる公的書類（運転免許証、健康保険証、マイナンバーカード、学生証のいずれか）をご提示いただきますのでご持参ください。
 
 #### 詳細・問い合わせ先
-https://illustratorbeginner.hp.peraichi.com/
+<a href="https://illustratorbeginner.hp.peraichi.com/" target="_blank">ウェブサイト</a>

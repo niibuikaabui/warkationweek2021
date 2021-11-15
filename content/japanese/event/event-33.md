@@ -57,4 +57,4 @@ Re:sort@OKINAWAは、「沖縄の新しい滞在スタイルの発見」をテ�
 また、優秀作品に選ばれた3名様には、「Re:sort@OKINAWAコーラルパス(オプション別)」をプレゼント！  
 ぜひ沖縄妄想滞在記を実現するために、お役立てください！  
 #### 詳細ページ
-https://note.com/resort_okinawa/n/n1f20864a9f31
+<a href="https://note.com/resort_okinawa/n/n1f20864a9f31" target="_blank">noteサイト</a>

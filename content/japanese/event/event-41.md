@@ -79,4 +79,4 @@ TEL 098-861-4040／FAX 098-869-3424
 担当：出水 E-MAIL：h_izumi@okw.jtb.jp  
 
 #### イベントサイト
-https://resortech-expo.okinawa/program/afterevent01/
+<a href="https://resortech-expo.okinawa/program/afterevent01/" target="_blank">ResorTech EXPOサイト</a>

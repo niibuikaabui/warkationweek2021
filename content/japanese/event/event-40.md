@@ -43,4 +43,4 @@ sdgs: "8.働きがいも経済成長も"
 #### 場所：
 沖縄県那覇市安里３８１−１
 #### ZORKS沖縄について
-https://r-digico.co.jp/zorks_okinawa/
+<a href="https://r-digico.co.jp/zorks_okinawa/" target="_blank">ウェブサイト</a>

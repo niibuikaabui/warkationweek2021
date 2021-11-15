@@ -50,4 +50,4 @@ sdgs: "17.パートナーシップで目標を達成しよう"
   
 #### 詳細、お申し込み
 以下をご覧ください！
-https://www.shimamusubi.net/index.php/kume/
+<a href="https://www.shimamusubi.net/index.php/kume/" target="_blank">ウェブサイト</a>

@@ -53,4 +53,4 @@ sdgs: "関連無し"
 沖縄コンベンションセンター 会議棟B1/ ResorTech EXPO ONLINE ライブ配信  
   
 #### 詳細
-https://resortech-expo.okinawa/program/event01/
+<a href="https://resortech-expo.okinawa/program/event01/" target="_blank">ResorTech EXPOサイト</a>

@@ -51,7 +51,7 @@ sdgs: "8.働きがいも経済成長も"
   
 #### 【瀬良垣島ワーケーション体験・無料モニター詳細】
 ■応募期間︓ 2021年10⽉18⽇（⽉）〜2021年10⽉29⽇（⾦）  
-■応募⽅法︓ 右記の特設ページをご確認くださいhttps://hyattregencyseragaki.jp/activity/workations  
+■応募⽅法︓ <a href="https://hyattregencyseragaki.jp/activity/workations" target="_blank">特設ページ</a>をご確認ください。  
 ■モニター募集数︓ 1組（⼤⼈2名、未就学児含む⼦供2名まで）  
 ■モニター対象期間︓ 2021年11⽉13⽇（⽇）〜2021年11⽉26⽇（⾦）の期間中の3泊4⽇  
 ※11⽉20⽇（⼟）〜22⽇（⽉）を除く  
@@ -76,5 +76,4 @@ sdgs: "8.働きがいも経済成長も"
 #### お問い合わせ
 本モニター募集に関するお問い合わせは下記のメールアドレスにて承ります。  
 okaro-marcom@hyatt.com  
-コロナ感染症の状況に応じて応募内容が変わる可能性がございます。最新情報はウェブサイト  
-https://hyattregencyseragaki.jp/activity/workations を参照ください。  
+コロナ感染症の状況に応じて応募内容が変わる可能性がございます。最新情報は<a href="https://hyattregencyseragaki.jp/activity/workations" target="_blank">ウェブサイト</a>  を参照ください。  

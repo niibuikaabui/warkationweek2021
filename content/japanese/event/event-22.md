@@ -57,4 +57,5 @@ sdgs: "11.住み続けられるまちづくりを"
 那覇市久茂地３丁目２６−２７  
   
 #### 事前申し込み
-https://peatix.com/event/2939412/view  
+<a href="https://peatix.com/event/2939412/view" target="_blank">peatix</a>
+  

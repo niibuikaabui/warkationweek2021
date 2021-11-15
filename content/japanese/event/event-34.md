@@ -44,4 +44,4 @@ ZoomやTeamsなどのオンラインツールの違いについても紹介し�
 11/25(木) 15:30～17:30  
   
 #### お申込みページ
-https://5d5fdfa9c1cda18d020f9bc261.doorkeeper.jp/events/upcoming
+<a href="https://5d5fdfa9c1cda18d020f9bc261.doorkeeper.jp/events/upcoming" target="_blank">外部サイト</a>

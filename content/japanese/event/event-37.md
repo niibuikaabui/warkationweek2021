@@ -62,4 +62,4 @@ coconova ココノバ
 ※定員になり次第締め切りとさせていただきます  
 
 #### 詳細・申込
-https://tough-activity-b53.notion.site/Design-Sprint-Okinawa-ac1f00881b16431b87217ade795b95c5
+<a href="https://tough-activity-b53.notion.site/Design-Sprint-Okinawa-ac1f00881b16431b87217ade795b95c5" target="_blank">特設サイト</a>

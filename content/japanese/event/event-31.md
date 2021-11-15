@@ -60,4 +60,4 @@ sdgs: "8.働きがいも経済成長も"
 ※場所等は様々ですので、詳細は下記サイトをご覧ください。
   
 #### 詳細・問い合わせ先
-http://coworkationokinawa.hp.peraichi.com/
+<a href="http://coworkationokinawa.hp.peraichi.com/" target="_blank">SEASIDE OFFICEサイト</a>
