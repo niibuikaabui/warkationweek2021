@@ -41,7 +41,7 @@ sdgs: "8.働きがいも経済成長も"
 周辺業務を外部人材によるアウトサポーティングを受けることで、社内人材に主要業務を集中させることができます。県や自治体からの補助・委託事業ですので、安心してご利用いただけます。  
   
 #### 【期間限定動画配信】  
-<!-- https://youtu.be/BX8vm1SnTWg   -->
+<a href="https://youtu.be/BX8vm1SnTWg" target="_blank">Workcation Week Okinawa × island Connect Okinawa</a>
 ①island Connect Okinawaとは  
 ②外部人材を使用するメリット  
 ③どのような案件を頼むことができるのか  
@@ -51,5 +51,4 @@ sdgs: "8.働きがいも経済成長も"
 #### お問い合わせ
 株式会社アイボリー  
 kogushi@ivory.systems  
-island Connect Okinawaホームページ：
-https://icokinawa.com/  
+<a href="https://icokinawa.com/" target="_blank">island Connect Okinawaホームページ</a>

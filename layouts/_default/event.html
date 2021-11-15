@@ -10,7 +10,7 @@
   <div class="card-body">
     <!-- location -->
     <p>
-      <i class="ti-calendar text-primary mr-2"></i>{{ .Params.Term | markdownify }}
+      <i class="ti-calendar text-primary mr-2"></i><b>{{ .Params.Term | markdownify }}</b>
       <i class="ti-location-pin text-primary mr-2"></i>{{ .Params.Location | markdownify }}
       <i class="ti-user text-primary mr-2"></i>{{ range .Params.Speaker }}{{ .name }}{{ end }}
     </p>
