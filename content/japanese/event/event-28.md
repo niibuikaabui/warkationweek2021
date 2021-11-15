@@ -4,7 +4,7 @@ title: "ワーケーションテック・アイデアソン2021"
 publishDate: "2021-01-01T00:00:00Z"
 # event date
 date: "2021-11-19T00:00:00+06:00"
-term: "2021/11/19 13:00-16:00"
+term: "2021/11/19 13:00-16:30"
 # post save as draft
 draft: false
 # page title background image
@@ -47,7 +47,7 @@ sdgs: "関連無し"
 ・WOTA (WOTA株式会社)  
   
 #### 日時
-2021/11/19 13:00-16:00  
+2021/11/19 13:00-16:30  
   
 #### 会場：
 沖縄コンベンションセンター 会議棟B1/ ResorTech EXPO ONLINE ライブ配信  
