@@ -40,20 +40,17 @@ sdgs: "3.すべての人に健康と福祉を"
 日時：2021/11/22 6:30～11/22 8:00  
 概要：朝の1時間程度、体と心の状態を整えるため、サイクリング。名護ビーチを中心に交通量の少ない海岸線に沿ったコースでの実施を予定。  
 料金：2,000円（レンタサイクルなど一部有料オプションあり）  
-詳細・申込：  
-https://peatix.com/event/3033804/view  
+<a href="https://peatix.com/event/3033804/view" target="_blank">詳細・申込</a>  
   
 ### WORKCATION WEEK OKINAWA サンセットライド in 名護
 日時：2021/11/22 17:00～11/22 18:30  
 概要：名護湾に沈む夕日を見ながら、1日の疲れを解放するサンセットサイクリング。名護ビーチを中心に海岸線に沿ったコースでの実施を予定。  
 料金：2,000円（レンタサイクルなど一部有料オプションあり）  
-詳細・申込：  
-https://wwosunsetride.peatix.com/view  
+<a href="https://wwosunsetride.peatix.com/view" target="_blank">詳細・申込</a>  
   
 ### WORKCATION WEEK OKINAWA やんばるサイクリング
 日時：2021/11/20 8:00～11/20 13:00  
 概要：週末の休日に本部半島1周を基本にコース設定したサイクリング（距離約50㎞）を実施。  
 料金：5,000円（レンタサイクルなど一部有料オプションあり）  
 詳細・申込：  
-https://peatix.com/event/3040033/view  
-
+<a href="https://peatix.com/event/3040033/view" target="_blank">詳細・申込</a>  

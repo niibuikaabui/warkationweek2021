@@ -58,9 +58,9 @@ sdgs: "8.働きがいも経済成長も"
   
 #### 参加方法：  
 当セミナーは、ResorTech EXPO 2021の一環で開催されます。会場への来場チケットが必要ですので、下記よりお申し込みください。  
-https://resortech-expo.okinawa/resortech-expo-2021-in-okinawa-entry-info-2/  
+<a href="https://resortech-expo.okinawa/resortech-expo-2021-in-okinawa-entry-info-2/" target="_blank">ResorTech EXPO 申込サイト</a>  
 また、当日は、会場とオンライン（ResorTech EXPO　ONLINE）のハイブリッドで開催されます。オンラインの詳細はこちらから。  
-https://resortech-expo.okinawa/resortech-expo-online/  
+<a href="https://resortech-expo.okinawa/resortech-expo-online/" target="_blank">ResorTech EXPO オンラインサイト</a>  
   
 #### 詳細情報
 {{< img src="digital-jyosi1.jpg" alt="デジタル女子1" >}}  

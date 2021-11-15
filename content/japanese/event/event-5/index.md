@@ -47,4 +47,4 @@ sdgs: "14.海の豊かさを守ろう"
 デザインの力を信じて。  
   
 2021/11/13(土)～28(日)  
-https://miyakojimacity.jp/
+<a href="https://miyakojimacity.jp/" target="_blank">詳細サイト</a>

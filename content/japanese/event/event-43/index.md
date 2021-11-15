@@ -82,7 +82,5 @@ OKINAWA CACAO FACTORY & STAND (沖縄県国頭郡国頭村浜521)
   
 ※COVID-19の感染拡大防止に努め、ご案内します。マスク着用などのご協力をよろしくお願いします。  
   
-OKINAWA CACAOのページ：  
-https://okinawacacao.com/  
-イベントのページ：  
-https://m.facebook.com/events/370717361499923/?_rdr
+<a href="https://okinawacacao.com/" target="_blank">OKINAWA CACAOのサイト</a>  
+<a href="https://m.facebook.com/events/370717361499923/?_rdr" target="_blank">イベントサイト</a>  

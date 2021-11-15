@@ -61,7 +61,7 @@ sdgs: "8.働きがいも経済成長も"
 #### 会場
 沖縄県豊見城市豊崎３−５９  
 #### 申込フォーム
-https://docs.google.com/forms/d/1NmDRj9SmjomggV1ZvOOyTUD6w9MBo-WGJiZGXvZKU5M/edit?usp=sharing  
+<a href="https://docs.google.com/forms/d/1NmDRj9SmjomggV1ZvOOyTUD6w9MBo-WGJiZGXvZKU5M/edit?usp=sharing" target="_blank">こちら</a>  
 #### お問合せ
 株式会社コノ街デザイン  
 sangyo.kanko@toyopla.jp  

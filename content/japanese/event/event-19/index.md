@@ -69,4 +69,4 @@ sdgs: "4.質の高い教育をみんなに"
 y.okuhara@chatan-do.com  
 
 #### 申込み：
-https://docs.google.com/forms/d/e/1FAIpQLScBkDEgzO99vQ2oXoKe6Z9ID8q1ts3acznhAzewCTBujcC9Ag/viewform
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScBkDEgzO99vQ2oXoKe6Z9ID8q1ts3acznhAzewCTBujcC9Ag/viewform" target="_blank">申込サイト</a>

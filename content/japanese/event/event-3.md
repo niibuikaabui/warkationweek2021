@@ -49,4 +49,4 @@ sdgs: "8.働きがいも経済成長も"
 〒900-0014　沖縄県那覇市松尾2-5-7  
   
 #### 詳細・お問合せ
-https://gotf.jp/
+<a href="https://gotf.jp/" target="_blank">沖縄大交易会</a>  

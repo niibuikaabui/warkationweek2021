@@ -38,5 +38,5 @@ sdgs: "8.働きがいも経済成長も"
 
 「ResorTech EXPO 2021 in Okinawa」 は、沖縄県全産業で進めているResorTech Okinawaの活動成果報告の場として、また同時に国内外のIT事業者と様々な産業の事業者とのビジネスマッチングの場として、年に1度の複合型見本市（展示、商談、セミナー）をオンライン・オフラインのハイブリッドで開催し、世界に発信します。  
   
-■詳細・お問合せ
-https://resortech-expo.okinawa/
+#### 詳細・お問合せ
+<a href="https://resortech-expo.okinawa/" target="_blank">ResorTech EXPO 2021</a>  

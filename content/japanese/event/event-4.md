@@ -39,7 +39,7 @@ sdgs: "4.質の高い教育をみんなに"
 沖縄のライター・編集者チーム「OKINAWA GRIT（略称：オキグリ）」です。「地域を豊かにする観光系の記事づくり（入門編）」と題してオンラインで開催します。今回のイベントは、noteの有料記事（980円）を【参加費】として購入いただきます。  
   
 ▶noteのテーマ「類似した観光系の記事から脱け出そう」  
-https://note.com/miya_nee/n/n952d53599331  
+<a href="https://note.com/miya_nee/n/n952d53599331" target="_blank">note</a>  
   
 このnoteを読んで軽く予習をした後、オンライン講座をご視聴いただくと、より理解が深まるよう、noteの記事とイベントをセットにしました。  
 ・イベント当日は、ご自宅から動画を視聴可能です。  
@@ -61,19 +61,17 @@ https://note.com/miya_nee/n/n952d53599331
   
 #### 事前申し込み（参加費：980円）
 こちらのnoteをご購入ください。  
-  
-▶類似した観光系の記事から脱け出そう！観光をテーマにした「Web記事のつくり方」  
-https://note.com/miya_nee/n/n952d53599331  
+<a href="https://note.com/miya_nee/n/n952d53599331" target="_blank">類似した観光系の記事から脱け出そう！観光をテーマにした「Web記事のつくり方」</a>  
   
 #### ご案内・注意事項
 イベント当日の動画は、後日アーカイブ動画で配信します（いつでも視聴可能）  
 当日リアルタイムで視聴できない方は、イベント終了後、noteの記事内に【アーカイブ動画の配信先URL】を掲載します。いつでも視聴いただけます。  
   
 ▶注意事項については、noteの記事をご覧ください。  
-https://note.com/miya_nee/n/n952d53599331  
+<a href="https://note.com/miya_nee/n/n952d53599331" target="_blank">類似した観光系の記事から脱け出そう！観光をテーマにした「Web記事のつくり方」</a>  
   
 ▶Twitterでイベント情報を発信してます。  
-https://twitter.com/miya_nee  
+<a href="https://twitter.com/miya_nee" target="_blank">twitterアカウント</a>  
   
 #### 有料noteの目次（参加費兼用）
 【１部】観光をテーマにした「Web記事のつくり方」  

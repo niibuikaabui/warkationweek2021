@@ -76,10 +76,10 @@ sdgs: "8.働きがいも経済成長も"
 参加にあたっては、当セミナーの申込みに併せて、リゾテック会場への来場チケットの申込みが必要です。下記ＵＲＬより、お申し込みが可能です。  
   
 #### 当セミナー申込み
-https://mm-enquete-cnt.meti.go.jp/form/pub/okinawa-syoumutsusyou/jobcation  
+<a href="https://mm-enquete-cnt.meti.go.jp/form/pub/okinawa-syoumutsusyou/jobcation" target="_blank">セミナー申込サイト</a>  
   
 #### リゾテック会場への来場チケット申込み
-https://resortech-expo.okinawa/resortech-expo-2021-in-okinawa-entry-info-2/
+<a href="https://resortech-expo.okinawa/resortech-expo-2021-in-okinawa-entry-info-2/" target="_blank">ResorTech EXPO 申込サイト</a>
 
 {{< img src="jobcation-pf1.jpg" alt="ジョブケーション登壇者" >}}  
 {{< img src="jobcation-pf2.jpg" alt="ジョブケーション登壇者" >}}  

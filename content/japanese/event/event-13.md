@@ -48,5 +48,5 @@ Lagoon隣のBe²barでイベント開催予定（生配信も予定）
 ・テーマを複数用意➡︎くじ引きで話す  
   
 ■会場  
-Be²bar（ベベバー）Twitter  
-https://twitter.com/bebebarokinawa
+Be²bar（ベベバー）
+<a href="https://twitter.com/bebebarokinawa" target="_blank">Be²bar（ベベバー）Twitter</a>  

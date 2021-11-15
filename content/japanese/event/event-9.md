@@ -54,4 +54,4 @@ sdgs: "8.働きがいも経済成長も"
 一般社団法人日本テレワーク協会 主席研究員　大沢 彰 様、松江市 定住企業立地推進課 副主任　土江 健二様
 
 #### 詳細・お問合せ先
-https://www.japan-int.com/new/post-2439/
+<a href="https://www.japan-int.com/new/post-2439/" target="_blank">ジャパンインテグレーション</a>  

@@ -50,6 +50,5 @@ sdgs: "9.産業と技術革新の基盤をつくろう"
 日本IBM  
 KDDIウェブコミュニケーションズ  
 #### 【実施場所】
-ヤッカヤッカコリビング  
-https://miyakojimacity.jp/  
+<a href="https://miyakojimacity.jp/" target="_blank">ヤッカヤッカコリビング</a>  
 {{< img src="WWO2021_agri-tech_Garege.png" alt="アグリテック" >}}
