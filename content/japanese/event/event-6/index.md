@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "トヨプラドロップイン利用＆地元企業と県外企業のほろ酔い交流 「トヨプラ酒場」"
 # Event image
-image: "images/events/toyopla.png"
+image: "images/events/toyopla-pamphlet-small.jpg"
 # location
 location: "豊見城市、オンライン"
 # entry fee
@@ -57,7 +57,7 @@ sdgs: "8.働きがいも経済成長も"
 リアル開催＋オンライン参加  
 #### 料金
 ①ドロップイン利用（1時間：1,000円、1日4,000円）  
-②イベント（調整中）  
+②イベント リアル参加：2,000円（税込）、オンライン参加：無料  
 #### 会場
 沖縄県豊見城市豊崎３−５９  
 #### 申込フォーム
@@ -65,3 +65,5 @@ sdgs: "8.働きがいも経済成長も"
 #### お問合せ
 株式会社コノ街デザイン  
 sangyo.kanko@toyopla.jp  
+
+{{< img src="toyopla-pamphlet.jpg" alt="トヨプラ酒場" >}}  
