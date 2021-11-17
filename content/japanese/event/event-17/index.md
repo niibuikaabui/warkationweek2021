@@ -81,5 +81,12 @@ sdgs: "8.働きがいも経済成長も"
 #### リゾテック会場への来場チケット申込み
 <a href="https://resortech-expo.okinawa/resortech-expo-2021-in-okinawa-entry-info-2/" target="_blank">ResorTech EXPO 申込サイト</a>
 
+#### 発表スライド
+<a href="https://tele-okinawa.go.jp/wwo2021/event/event-17/【大津俊哉氏】人が鍵の地方創生.pdf" target="_blank">【大津俊哉氏】人が鍵の地方創生</a>  
+<a href="https://tele-okinawa.go.jp/wwo2021/event/event-17/【平田麻莉氏】20211118_沖縄総合事務局セミナーre.pdf" target="_blank">【平田麻莉氏】沖縄総合事務局セミナー</a>  
+<a href="https://tele-okinawa.go.jp/wwo2021/event/event-17/【石川貴志氏】沖縄型ジョブケーションを考える.pdf" target="_blank">【石川貴志氏】沖縄型ジョブケーションを考える</a>  
+<a href="https://tele-okinawa.go.jp/wwo2021/event/event-17/【松浦裕志氏】セミナー資料.pdf" target="_blank">【松浦裕志氏】セミナー資料</a>  
+<a href="https://tele-okinawa.go.jp/wwo2021/event/event-17/【兼村光氏】2021118_ジョブケーション発表スライド.pdf" target="_blank">【兼村光氏】ジョブケーション発表スライド</a>  
+  
 {{< img src="jobcation-pf1.jpg" alt="ジョブケーション登壇者" >}}  
 {{< img src="jobcation-pf2.jpg" alt="ジョブケーション登壇者" >}}  
