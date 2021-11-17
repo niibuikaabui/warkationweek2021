@@ -48,6 +48,17 @@ sdgs: "8.働きがいも経済成長も"
   
 #### 当事業の詳細、お申込み等
 <a href="https://www.shimamusubi.net/" target="_blank">「沖縄しまむすびワーケーション」公式サイト</a>にてご確認下さい。  
+  
+##### 久米島
+企業向け：2022年2月7日（月）〜2月11日（金）4泊5日  
+個人事業主向け：2021年11月29日（月）〜12月3日（金）4泊5日  
+<a href="https://www.shimamusubi.net/index.php/kume/" target="_blank">久米島　詳細</a>  
+##### 多良間島
+（2022年1月）10日間　うち2日間は参加必須、うち6日間は任意参加のプログラム  
+<a href="https://www.shimamusubi.net/index.php/tarama/" target="_blank">多良間島　詳細</a>  
+##### 国頭村
+（2022年1月）30日間　うち6日間は参加必須、うち22日は任意参加のプログラム  
+<a href="https://www.shimamusubi.net/index.php/kunigami/" target="_blank">国頭村　詳細</a>  
 
 #### お問い合わせ先
 沖縄しまむすびワーケーション運営事務局（一般社団法人プロモーションうるま内）  

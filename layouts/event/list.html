@@ -1,8 +1,24 @@
 {{ define "main" }}
+<style type="text/css">
+
+.bg_dark p {
+  color: white;
+  font-size: 28px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+  
+</style>
 
 <!-- events -->
 <section class="section">
   <div class="container">
+    <div class="row pb-2">
+      <p>WWO期間に、40を超える連携イベントが開催されます。様々なタイプのイベントをご用意していますので、ご自身にあったイベントにご参加ください。</p>
+      <a href="https://tele-okinawa.go.jp/wwo2021/event/event-47/"><img src="/wwo2021/images/events/WWO-1day_big.jpg" class="img-fluid border rounded" alt="WWO 1day"></a>
+    </div>
     <div class="row">
       {{ range .Data.Pages.ByDate }}
       <div data-category="{{ .Params.Location | urlize }}" class="col-lg-4 col-sm-6 mb-5">

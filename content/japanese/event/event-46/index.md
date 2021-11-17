@@ -14,7 +14,7 @@ description : "Karate Cafe AGARI コワーキングHAPPYアワー"
 # Event image
 image: "images/events/karatekaikan.jpg"
 # location
-location: "浦添市"
+location: "豊見城市"
 # entry fee
 fee: "無料"
 # apply url
@@ -37,6 +37,12 @@ sdgs: "関連無し"
 ---
 
 ### Karate Cafe AGARI コワーキングHAPPYアワー
+沖縄の重要文化である空手を継承するために作られた空手会館。  
+実は、空手会館内にあるKaratecafe AGARIでは、美味しいおそばが食べられるだけでなく、お仕事もできます。  
+もちろんWi-Fi、プリンター完備です。  
+通常1時間500円のところ、期間中は何時間でも500円です。  
+この機会に空手会館でのテレワークをお試しください。
+
 #### 日時
 2021/11/15～2021/11/28（定休日：水曜日）  
 ご利用可能時間：11時～17時  

@@ -3,7 +3,7 @@ title: "Resortech EXPOサテライト会場（Resortech EXPO参加登録者対�
 # Schedule page publish date
 publishDate: "2021-01-01T00:00:00Z"
 # event date
-date: "2021-11-14T00:00:00+06:00"
+date: "2021-11-18T00:00:00+06:00"
 term: "2021/11/18 9:00-11/19 18:00"
 # post save as draft
 draft: false
