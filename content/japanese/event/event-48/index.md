@@ -6,13 +6,13 @@ publishDate: "2021-01-01T00:00:00Z"
 date: "2021-11-25T00:00:00+06:00"
 term: "2021/11/25 15:00-17:00"
 # post save as draft
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "【企業誘致施策】企業版ふるさと納税を活用したワーケーション施策の検討について"
 # Event image
-image: "images/events/noimage.png"
+image: "images/events/hurukone.jpg"
 # location
 location: "オンライン"
 # entry fee
