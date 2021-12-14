@@ -1,1 +1,65 @@
-{"title":"Workcation Week Okinawa","url":"https://tele-okinawa.go.jp/wwo2021/en/","entry":[{"title":"Our Courses","section":"event","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/event/"},{"title":"Notice","section":"notice","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/notice/"},{"title":"Our Courses","section":"research","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/research/"},{"title":"About Us","section":"about","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/about/"},{"title":"About Us","section":"contact","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/contact/"},{"title":"Authors","section":"author","url":"https://tele-okinawa.go.jp/wwo2021/en/author/"},{"title":"Latest News","section":"blog","description":"this is meta description","url":"https://tele-okinawa.go.jp/wwo2021/en/blog/"},{"title":"Our Courses","section":"teacher","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/teacher/"},{"title":"Scholarship","section":"scholarship","description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.","url":"https://tele-okinawa.go.jp/wwo2021/en/scholarship/"}]}
+{
+    "title": "Workcation Week Okinawa",
+    "url": "https://tele-okinawa.go.jp/wwo2021/en/",
+    "entry": [
+      {
+        "title": "Our Courses",
+        "section": "event",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/event/"
+      },
+      {
+        "title": "Notice",
+        "section": "notice",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/notice/"
+      },
+      {
+        "title": "Our Courses",
+        "section": "course",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/course/"
+      },
+      {
+        "title": "Our Courses",
+        "section": "research",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/research/"
+      },
+      {
+        "title": "About Us",
+        "section": "about",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/about/"
+      },
+      {
+        "title": "About Us",
+        "section": "contact",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/contact/"
+      },
+      {
+        "title": "Authors",
+        "section": "author",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/author/"
+      },
+      {
+        "title": "Latest News",
+        "section": "blog",
+        "description": "this is meta description",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/blog/"
+      },
+      {
+        "title": "Our Courses",
+        "section": "teacher",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/teacher/"
+      },
+      {
+        "title": "Scholarship",
+        "section": "scholarship",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+        "url": "https://tele-okinawa.go.jp/wwo2021/en/scholarship/"
+      }
+    ]
+  }

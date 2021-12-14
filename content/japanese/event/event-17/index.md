@@ -42,6 +42,14 @@ sdgs: "8.働きがいも経済成長も"
 こうしたワークライフスタイルの定着を、受け入れる地域側が上手く活用することで、地域の価値創造や課題解決につなげることができる。来る人たちと協働で、地域企業の経営課題やイノベーションに取り組み、多様な人々との共創によるまちづくり活動につなげる。  
 「ジョブケーション」の可能性について、一緒に考えてみませんか？  
   
+#### アーカイブ動画
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZEhhWVS3q4c"></iframe>
+</div>
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1eR7G6XLl9Q"></iframe>
+</div>
+  
 #### 日時・場所
 2021年11月18日（木）10:30～12:00（開場10:00）
 リゾテック会場（沖縄コンベンションセンター（宜野湾市））内 会議場B1 
